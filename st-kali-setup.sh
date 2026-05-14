@@ -365,7 +365,7 @@ EOM
 
 printline() {
 	printf "\n${blue}"
-	echo " #---------------------------------#"
+	echo " #--------------------------------------------#"
 }
 
 # Start
@@ -495,8 +495,8 @@ printf "${yellow} ╚═══════════════════�
 printf "\n"
 printf "  ┌─────────────────────────────────────────────┐\n"
 printf "  │                                             │\n"
-printf "  │   🎮 Type  ${green}kali-linux${yellow}       → Kali User Mode  │\n"
-printf "  │   🎮 Type  ${red}kali-linux-root${yellow}   → Kali Root Mode  │\n"
+printf "  │  🎮 Type  ${green}kali-linux${yellow}     → Kali User Mode │\n"
+printf "  │  🎮 Type  ${red}kali-linux-root${yellow} → Kali Root Mode │\n"
 printf "  │                                             │\n"
 printf "  └─────────────────────────────────────────────┘\n"
 printf "\n"
