@@ -441,7 +441,7 @@ install_banner_deps() {
 
     printf "${blue} [*] Installing banner dependencies...${reset}\n"
     printf "${yellow} ╔══════════════════════════════════════════╗"
-    printf "\n${yellow} ║  ⏳ Setting up nodejs & cfonts...       ║"
+    printf "\n${yellow} ║  ⏳ Setting up required packages...      ║"
     printf "\n${yellow} ║  📡 This may take 1-2 minutes...          ║"
     printf "\n${yellow} ╚══════════════════════════════════════════╝${reset}\n"
 
