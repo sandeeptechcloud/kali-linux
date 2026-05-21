@@ -161,46 +161,22 @@ create_xsession_handler() {
     mkdir -p "$DESTINATION/usr/bin"
     VNC_WRAPPER="$DESTINATION/usr/bin/vnc"
 
-    # --- GTK theme fix: prevents libwnck/glycin crash in proot ---
-    # Kali's default Flat-Remix-Blue-Dark uses SVG icons loaded via
-    # glycin which requires bwrap (kernel namespaces) → crashes in proot.
-    # Adwaita uses pre-rendered PNGs → no bwrap needed → stable in proot.
-    mkdir -p "$DESTINATION/root/.config/gtk-3.0"
-    mkdir -p "$DESTINATION/root/.config/gtk-4.0"
-    cat > "$DESTINATION/root/.config/gtk-3.0/settings.ini" << 'GTKEOF'
-[Settings]
-gtk-icon-theme-name = Adwaita
-gtk-theme-name = Adwaita
-GTKEOF
-    cat > "$DESTINATION/root/.config/gtk-4.0/settings.ini" << 'GTKEOF'
-[Settings]
-gtk-icon-theme-name = Adwaita
-gtk-theme-name = Adwaita
-GTKEOF
-    chmod 644 "$DESTINATION/root/.config/gtk-3.0/settings.ini"
-    chmod 644 "$DESTINATION/root/.config/gtk-4.0/settings.ini"
-
-    # --- Disable glycin SVG loader (requires bwrap - fails in proot) ---
-    LOADERS_DIR=$(ls -d "$DESTINATION"/usr/lib/aarch64-linux-gnu/gdk-pixbuf-2.0/*/loaders 2>/dev/null | head -1)
-    if [ -f "${LOADERS_DIR}/libpixbufloader-glycin-svg.so" ]; then
-        mv "${LOADERS_DIR}/libpixbufloader-glycin-svg.so" \
-           "${LOADERS_DIR}/libpixbufloader-glycin-svg.so.disabled" 2>/dev/null || true
-    fi
-
-    cat > "$VNC_WRAPPER" << 'EOF'
+    # We use unquoted EOF here so that $LIBGCCPATH is evaluated and permanently written into the vnc wrapper.
+    cat > "$VNC_WRAPPER" <<- EOF
 #!/bin/bash
 
 _vnc_cmd() {
-    # tigervncserver is the correct command on Kali (xtigervncserver doesn't exist)
     command -v tigervncserver  >/dev/null 2>&1 && echo tigervncserver  && return
     command -v xtigervncserver >/dev/null 2>&1 && echo xtigervncserver && return
     echo vncserver
 }
 
-_vnc_create_xstartup() {
-    mkdir -p ~/.config/tigervnc
-    # Always overwrite xstartup to ensure it's the working proot-compatible version
-    cat > ~/.config/tigervnc/xstartup << 'XEOF'
+vnc_start() {
+    # Ensure VNC directories exist
+    mkdir -p ~/.vnc ~/.config/tigervnc
+
+    # Ensure a proper xstartup exists for XFCE4
+    cat > ~/.vnc/xstartup << 'XEOF'
 #!/bin/bash
 export XDG_RUNTIME_DIR=/tmp/runtime-$(id -u)
 mkdir -p "$XDG_RUNTIME_DIR"
@@ -208,85 +184,79 @@ chmod 700 "$XDG_RUNTIME_DIR"
 unset SESSION_MANAGER
 unset DBUS_SESSION_BUS_ADDRESS
 export GTK_THEME=Adwaita
+export SHELL=/bin/bash
+export XKL_XMODMAP_DISABLE=1
 
 # Start dbus session daemon
 eval $(dbus-launch --sh-syntax 2>/dev/null) || true
 
-# Start XFCE4 components individually
-# (bypass xfce4-session which crashes due to polkit/wnck in proot)
-xfwm4 --daemon 2>/dev/null &
-sleep 1
-xfdesktop 2>/dev/null &
-xfce4-panel --disable-wm-check 2>/dev/null &
+# Start XFCE4 components individually (PRoot bypass)
+if command -v xfwm4 >/dev/null 2>&1; then
+    xfwm4 --daemon 2>/dev/null &
+    sleep 1
+    xfdesktop 2>/dev/null &
+    xfce4-panel --disable-wm-check 2>/dev/null &
+else
+    startxfce4 &
+fi
 
-# CRITICAL: Keep xstartup alive
-# tigervncserver kills VNC when xstartup exits — this prevents that
-while true; do sleep 30; done
+# Keep session script running
+while true; do
+    sleep 30
+done
 XEOF
-    chmod +x ~/.config/tigervnc/xstartup
-}
+    chmod +x ~/.vnc/xstartup
+    cp ~/.vnc/xstartup ~/.config/tigervnc/xstartup 2>/dev/null || true
 
-vnc_start() {
-    # Remove old .vnc dir to stop tigervnc from attempting migration (fails in proot)
-    if [ -d ~/.vnc ] && [ ! -d ~/.config/tigervnc ]; then
-        rm -rf ~/.vnc
-    fi
-
-    # Pre-create tigervnc config dir
-    mkdir -p ~/.config/tigervnc
-
-    # Set password if not set
-    if [ ! -f ~/.config/tigervnc/passwd ]; then
+    if [ ! -f ~/.vnc/passwd ]; then
         echo ""
         echo "  [*] No VNC password set. Please set one now:"
-        vncpasswd ~/.config/tigervnc/passwd
+        vncpasswd ~/.vnc/passwd
     fi
 
-    # Create xstartup (XFCE4 desktop)
-    _vnc_create_xstartup
-
-    USR=$(whoami)
-    SCR=$( [ "$USR" = "root" ] && echo :1 || echo :2 )
-    PORT=$(( 5900 + ${SCR#:} ))
-    export USER="$USR"
-    echo "  [*] Starting VNC on display $SCR (port $PORT) ..."
-    LD_PRELOAD=LIBGCC_PLACEHOLDER/libgcc_s.so.1 \
-        $(_vnc_cmd) "$SCR" -geometry 1280x720 -depth 24 2>&1 | grep -v "^$" || true
-    sleep 2
-    if ls /tmp/.X${SCR#:}-lock >/dev/null 2>&1; then
-        echo ""
-        echo "  [✓] VNC RUNNING on display $SCR  |  Port: $PORT"
-        echo "  [✓] Open NetHunter KeX → connect to 127.0.0.1:$PORT"
+    USR=\$(whoami)
+    if [ "\$USR" = "root" ]; then
+        SCR=:1
     else
+        SCR=:2
+    fi
+    PORT=\$(( 5900 + \${SCR#:} ))
+
+    echo "  [*] Starting VNC on display \$SCR (port \$PORT) ..."
+    # CRITICAL: LD_PRELOAD is mandatory for Android proot compatibility!
+    export USER="\$USR"
+    LD_PRELOAD=$LIBGCCPATH/libgcc_s.so.1 \$(_vnc_cmd) \$SCR -geometry 1280x720 -depth 24
+    
+    sleep 3
+    if ls /tmp/.X\${SCR#:}-lock >/dev/null 2>&1; then
         echo ""
-        echo "  [!] VNC failed. Log:"
-        cat ~/.config/tigervnc/localhost${SCR}.log 2>/dev/null | tail -15
+        echo "  [✓] VNC RUNNING on display \$SCR  |  Port: \$PORT"
+        echo "  [✓] Open NetHunter KeX → connect to 127.0.0.1:\$PORT"
+    else
+        echo "  [!] VNC failed to start."
     fi
 }
 
 vnc_stop() {
+    \$(_vnc_cmd) -kill :1 2>/dev/null || true
+    \$(_vnc_cmd) -kill :2 2>/dev/null || true
     pkill -9 Xtigervnc 2>/dev/null || true
     rm -f /tmp/.X*-lock /tmp/.X11-unix/X* 2>/dev/null || true
     echo "  [*] VNC stopped."
 }
 
-vnc_passwd() {
-    mkdir -p ~/.config/tigervnc
-    vncpasswd ~/.config/tigervnc/passwd
-}
-
 vnc_status() {
-    LOCKS=$(ls /tmp/.X*-lock 2>/dev/null)
-    if [ -n "$LOCKS" ]; then
+    LOCKS=\$(ls /tmp/.X*-lock 2>/dev/null)
+    if [ -n "\$LOCKS" ]; then
         echo ""
         echo "  TigerVNC server sessions:"
         echo ""
-        for lock in $LOCKS; do
-            DISP=${lock#/tmp/.X}; DISP=${DISP%-lock}
-            PORT=$((5900 + DISP))
-            PID=$(cat "$lock" 2>/dev/null | tr -d ' ')
-            echo "    Display :$DISP  |  Port $PORT  |  PID $PID"
-            echo "    Connect: 127.0.0.1:$PORT"
+        for lock in \$LOCKS; do
+            DISP=\${lock#/tmp/.X}; DISP=\${DISP%-lock}
+            PORT=\$((5900 + DISP))
+            PID=\$(cat "\$lock" 2>/dev/null | tr -d ' ')
+            echo "    Display :\$DISP  |  Port \$PORT  |  PID \$PID"
+            echo "    Connect: 127.0.0.1:\$PORT"
         done
         echo ""
     else
@@ -294,13 +264,18 @@ vnc_status() {
     fi
 }
 
+vnc_passwd() {
+    mkdir -p ~/.vnc
+    vncpasswd ~/.vnc/passwd
+}
+
 vnc_kill() {
-    pkill Xtigervnc 2>/dev/null || true
+    pkill -9 Xtigervnc 2>/dev/null || true
     rm -f /tmp/.X*-lock /tmp/.X11-unix/X* 2>/dev/null || true
     echo "  [*] All VNC processes killed."
 }
 
-case "$1" in
+case "\$1" in
     start)  vnc_start  ;;
     stop)   vnc_stop   ;;
     status) vnc_status ;;
@@ -314,13 +289,11 @@ case "$1" in
         echo "    stop    — Stop VNC server"
         echo "    status  — Show active VNC sessions"
         echo "    passwd  — Set/change VNC password"
-        echo "    kill    — Force-kill all VNC processes"
+        echo "    kill    — Force kill all VNC sessions & clear locks"
         echo ""
         ;;
 esac
 EOF
-
-    sed -i "s|LIBGCC_PLACEHOLDER|${LIBGCCPATH}|g" "$VNC_WRAPPER"
     chmod +x "$VNC_WRAPPER"
 }
 
@@ -438,6 +411,59 @@ APTEOF
     done
 }
 
+fix_vnc_xstartup() {
+    # Define our ultra-robust PRoot-compatible xstartup content
+    local XSTARTUP_CONTENT='#!/bin/bash
+export XDG_RUNTIME_DIR=/tmp/runtime-$(id -u)
+mkdir -p "$XDG_RUNTIME_DIR"
+chmod 700 "$XDG_RUNTIME_DIR"
+unset SESSION_MANAGER
+unset DBUS_SESSION_BUS_ADDRESS
+export GTK_THEME=Adwaita
+export SHELL=/bin/bash
+export XKL_XMODMAP_DISABLE=1
+
+# Start dbus session daemon
+eval $(dbus-launch --sh-syntax 2>/dev/null) || true
+
+# Start XFCE4 components individually (PRoot bypass)
+if command -v xfwm4 >/dev/null 2>&1; then
+    xfwm4 --daemon 2>/dev/null &
+    sleep 1
+    xfdesktop 2>/dev/null &
+    xfce4-panel --disable-wm-check 2>/dev/null &
+else
+    startxfce4 &
+fi
+
+# Keep session script running
+while true; do
+    sleep 30
+done'
+
+    # 1. Apply to root
+    mkdir -p "$DESTINATION/root/.vnc" "$DESTINATION/root/.config/tigervnc"
+    echo "$XSTARTUP_CONTENT" > "$DESTINATION/root/.vnc/xstartup"
+    echo "$XSTARTUP_CONTENT" > "$DESTINATION/root/.config/tigervnc/xstartup"
+    chmod +x "$DESTINATION/root/.vnc/xstartup" "$DESTINATION/root/.config/tigervnc/xstartup"
+    chown -R root:root "$DESTINATION/root/.vnc" "$DESTINATION/root/.config"
+
+    # 2. Apply to kali user
+    mkdir -p "$DESTINATION/home/kali/.vnc" "$DESTINATION/home/kali/.config/tigervnc"
+    echo "$XSTARTUP_CONTENT" > "$DESTINATION/home/kali/.vnc/xstartup"
+    echo "$XSTARTUP_CONTENT" > "$DESTINATION/home/kali/.config/tigervnc/xstartup"
+    chmod +x "$DESTINATION/home/kali/.vnc/xstartup" "$DESTINATION/home/kali/.config/tigervnc/xstartup"
+    chown -R 1000:1000 "$DESTINATION/home/kali/.vnc" "$DESTINATION/home/kali/.config" 2>/dev/null || \
+    chown -R 100000:100000 "$DESTINATION/home/kali/.vnc" "$DESTINATION/home/kali/.config"
+
+    # 3. Apply to etc/skel templates
+    mkdir -p "$DESTINATION/etc/skel/.vnc" "$DESTINATION/etc/skel/.config/tigervnc"
+    echo "$XSTARTUP_CONTENT" > "$DESTINATION/etc/skel/.vnc/xstartup"
+    echo "$XSTARTUP_CONTENT" > "$DESTINATION/etc/skel/.config/tigervnc/xstartup"
+    chmod +x "$DESTINATION/etc/skel/.vnc/xstartup" "$DESTINATION/etc/skel/.config/tigervnc/xstartup"
+    chown -R root:root "$DESTINATION/etc/skel/.vnc" "$DESTINATION/etc/skel/.config"
+}
+
 ## Main
 fix_profile
 fix_sudo
@@ -446,3 +472,4 @@ fix_systemd
 fix_kali_user
 fix_uid
 create_xsession_handler
+fix_vnc_xstartup
