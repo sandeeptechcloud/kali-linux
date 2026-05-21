@@ -152,17 +152,10 @@ fix_uid() {
 }
 
 create_xsession_handler() {
-    if [ "$SETARCH" = "arm64" ]; then
-        LIBGCCPATH=/usr/lib/aarch64-linux-gnu
-    else
-        LIBGCCPATH=/usr/lib/arm-linux-gnueabihf
-    fi
-
     mkdir -p "$DESTINATION/usr/bin"
     VNC_WRAPPER="$DESTINATION/usr/bin/vnc"
 
-    # We use unquoted EOF here so that $LIBGCCPATH is evaluated and permanently written into the vnc wrapper.
-    cat > "$VNC_WRAPPER" <<- EOF
+    cat > "$VNC_WRAPPER" << 'EOF'
 #!/bin/bash
 
 _vnc_cmd() {
@@ -214,49 +207,63 @@ XEOF
         vncpasswd ~/.vnc/passwd
     fi
 
-    USR=\$(whoami)
-    if [ "\$USR" = "root" ]; then
+    USR=$(whoami)
+    if [ "$USR" = "root" ]; then
         SCR=:1
     else
         SCR=:2
     fi
-    PORT=\$(( 5900 + \${SCR#:} ))
+    PORT=$(( 5900 + ${SCR#:} ))
 
-    echo "  [*] Starting VNC on display \$SCR (port \$PORT) ..."
+    echo "  [*] Starting VNC on display $SCR (port $PORT) ..."
+    
     # CRITICAL: LD_PRELOAD is mandatory for Android proot compatibility!
-    export USER="\$USR"
-    LD_PRELOAD=$LIBGCCPATH/libgcc_s.so.1 \$(_vnc_cmd) \$SCR -geometry 1280x720 -depth 24
+    # Dynamically detect architecture lib path inside the running container
+    if [ -d "/usr/lib/aarch64-linux-gnu" ]; then
+        LIBGCCPATH="/usr/lib/aarch64-linux-gnu"
+    elif [ -d "/usr/lib/arm-linux-gnueabihf" ]; then
+        LIBGCCPATH="/usr/lib/arm-linux-gnueabihf"
+    else
+        LIBGCCPATH="/usr/lib"
+    fi
+
+    export USER="$USR"
+    if [ -f "$LIBGCCPATH/libgcc_s.so.1" ]; then
+        export LD_PRELOAD="$LIBGCCPATH/libgcc_s.so.1"
+    fi
+
+    $(_vnc_cmd) $SCR -geometry 1280x720 -depth 24
     
     sleep 3
-    if ls /tmp/.X\${SCR#:}-lock >/dev/null 2>&1; then
+    if ls /tmp/.X${SCR#:}-lock >/dev/null 2>&1; then
         echo ""
-        echo "  [✓] VNC RUNNING on display \$SCR  |  Port: \$PORT"
-        echo "  [✓] Open NetHunter KeX → connect to 127.0.0.1:\$PORT"
+        echo "  [✓] VNC RUNNING on display $SCR  |  Port: $PORT"
+        echo "  [✓] Open NetHunter KeX → connect to 127.0.0.1:$PORT"
     else
         echo "  [!] VNC failed to start."
     fi
 }
 
 vnc_stop() {
-    \$(_vnc_cmd) -kill :1 2>/dev/null || true
-    \$(_vnc_cmd) -kill :2 2>/dev/null || true
+    $(_vnc_cmd) -kill :1 2>/dev/null || true
+    $(_vnc_cmd) -kill :2 2>/dev/null || true
     pkill -9 Xtigervnc 2>/dev/null || true
     rm -f /tmp/.X*-lock /tmp/.X11-unix/X* 2>/dev/null || true
     echo "  [*] VNC stopped."
 }
 
 vnc_status() {
-    LOCKS=\$(ls /tmp/.X*-lock 2>/dev/null)
-    if [ -n "\$LOCKS" ]; then
+    LOCKS=$(ls /tmp/.X*-lock 2>/dev/null)
+    if [ -n "$LOCKS" ]; then
         echo ""
         echo "  TigerVNC server sessions:"
         echo ""
-        for lock in \$LOCKS; do
-            DISP=\${lock#/tmp/.X}; DISP=\${DISP%-lock}
-            PORT=\$((5900 + DISP))
-            PID=\$(cat "\$lock" 2>/dev/null | tr -d ' ')
-            echo "    Display :\$DISP  |  Port \$PORT  |  PID \$PID"
-            echo "    Connect: 127.0.0.1:\$PORT"
+        for lock in $LOCKS; do
+            DISP=${lock#/tmp/.X}; DISP=${DISP%-lock}
+            PORT=$((5900 + DISP))
+            PID=$(cat "$lock" 2>/dev/null | tr -d ' ')
+            echo "    Display :$DISP  |  Port $PORT  |  PID $PID"
+            echo "    Connect: 127.0.0.1:$PORT"
         done
         echo ""
     else
@@ -275,7 +282,7 @@ vnc_kill() {
     echo "  [*] All VNC processes killed."
 }
 
-case "\$1" in
+case "$1" in
     start)  vnc_start  ;;
     stop)   vnc_stop   ;;
     status) vnc_status ;;
@@ -287,7 +294,7 @@ case "\$1" in
         echo ""
         echo "    start   — Start VNC server (XFCE4 desktop)"
         echo "    stop    — Stop VNC server"
-        echo "    status  — Show active VNC sessions"
+        echo "    status  Show active VNC sessions"
         echo "    passwd  — Set/change VNC password"
         echo "    kill    — Force kill all VNC sessions & clear locks"
         echo ""
@@ -446,22 +453,18 @@ done'
     echo "$XSTARTUP_CONTENT" > "$DESTINATION/root/.vnc/xstartup"
     echo "$XSTARTUP_CONTENT" > "$DESTINATION/root/.config/tigervnc/xstartup"
     chmod +x "$DESTINATION/root/.vnc/xstartup" "$DESTINATION/root/.config/tigervnc/xstartup"
-    chown -R root:root "$DESTINATION/root/.vnc" "$DESTINATION/root/.config"
 
     # 2. Apply to kali user
     mkdir -p "$DESTINATION/home/kali/.vnc" "$DESTINATION/home/kali/.config/tigervnc"
     echo "$XSTARTUP_CONTENT" > "$DESTINATION/home/kali/.vnc/xstartup"
     echo "$XSTARTUP_CONTENT" > "$DESTINATION/home/kali/.config/tigervnc/xstartup"
     chmod +x "$DESTINATION/home/kali/.vnc/xstartup" "$DESTINATION/home/kali/.config/tigervnc/xstartup"
-    chown -R 1000:1000 "$DESTINATION/home/kali/.vnc" "$DESTINATION/home/kali/.config" 2>/dev/null || \
-    chown -R 100000:100000 "$DESTINATION/home/kali/.vnc" "$DESTINATION/home/kali/.config"
 
     # 3. Apply to etc/skel templates
     mkdir -p "$DESTINATION/etc/skel/.vnc" "$DESTINATION/etc/skel/.config/tigervnc"
     echo "$XSTARTUP_CONTENT" > "$DESTINATION/etc/skel/.vnc/xstartup"
     echo "$XSTARTUP_CONTENT" > "$DESTINATION/etc/skel/.config/tigervnc/xstartup"
     chmod +x "$DESTINATION/etc/skel/.vnc/xstartup" "$DESTINATION/etc/skel/.config/tigervnc/xstartup"
-    chown -R root:root "$DESTINATION/etc/skel/.vnc" "$DESTINATION/etc/skel/.config"
 }
 
 ## Main
