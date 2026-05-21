@@ -1,3 +1,594 @@
-z="
-";hFz='PID"';URz=' PAS';Haz='anne';bPz='1c24';ZRz='your';fBz='wn A';RLz='5535';YUz='CT_P';jNz='36e1';eLz=';;';wez='  Ge';lMz='4-mi';lbz='-a c';JOz='" ;;';HZz='in';TNz='df9f';hTz='(';BTz=' 📦 ';Jcz='tiva';hOz='b303';WLz='c65b';WFz='.." ';DXz='${us';eVz='iled';cNz='0e7a';iez='mpt=';fJz='\n i';NIz='neth';Iez='vati';ULz='1d88';tVz='cat ';aSz='pin"';hGz='ts"';HWz='LACE';bDz='d to';GMz='974f';edz='$att';ZYz='bin:';gJz='nto ';rQz='ific';qOz='7a6b';oNz='-min';vNz='6e07';LZz='ite:';Az='red=';gGz='cfon';eEz='e=0';lXz='dev ';DBz='OME/';ALz='sha2';VSz='l fr';pKz=' man';JLz='ot}"';jXz='\\';QBz='hroo';xLz='amd6';Adz='  📖';Ez='yell';xQz='ying';hVz='he a';lLz='1d7b';AIz='ps:/';NMz='5dbd';Baz='eps(';fCz='CH =';JCz='u.ab';kEz='/dev';daz='minu';RFz='et}"';bJz='laci';Xcz='0"';KBz='$HOM';HFz='yan}';AZz='bin"';vUz='dir ';dTz=' "$D';UCz='abi-';UEz='_PID';gCz=' ${S';Acz='}  ║';wCz='    ';qbz=' A N';RNz='35bf';ePz='a20c';dPz='b3c2';hbz='k -c';vEz='sf=$';jdz='[ $a';fKz='corr';Bfz='t:  ';JSz='0';Ngz='ux/r';aDz='uire';RYz='=C.U';OYz='colo';HOz='6784';uNz='4f8b';eNz='de9e';CFz='-c$(';wXz='me} ';QDz='te -';iJz='STIN';Ndz=' Vis';YBz='rch(';IYz='TERM';fRz='or h';WKz='dy d';iGz='"$CF';PZz='tech';xBz='itec';lEz='/nul';nIz='load';vXz='${ho';waz='ull;';OHz='w,bl';jOz='1ac4';FJz='ar f';hIz='oot-';rKz='y to';lDz=' do';SJz='ootf';gOz='79c0';EOz='b336';mJz='fs" ';BZz='s|PR';YNz='7ce7';bdz='  ──';FGz='  %-';TMz='cho ';fYz='n \\';IFz='  %s';RPz='5e6e';Dcz='ed B';Jz='blue';TTz='rab ';vLz='767d';tCz='N ST';oKz='e it';PNz='8d4b';OZz='deep';Rfz='CH';cWz='Crea';jUz='lete';yaz='\r${';TYz='PATH';tez='ied.';LXz='FIX_';LGz='${i}';qz='c rm';mBz='exit';yGz='elif';NRz='ctua';Sz='m'\''';cz='find';QZz='.com';ROz='f420';Mdz='}  ➤';MOz=' "48';Dfz='ow}h';mgz='/hea';dCz='*] S';rEz=') % ';aBz='tf "';IUz='DEST';Mez='_KEY';AXz='home';aHz=' N U';NGz='fi';aRz='ded ';gSz='  [%';xKz='age.';JFz='  In';RMz='-ful';lgz='refs';rz=' -f ';XSz='fram';AWz='t LD';sNz='1aa7';xfz='t-ka';lHz='s ch';DJz='tchi';oJz='hen';POz='a506';cgz='cont';ugz=' SET';VOz='3ac6';eXz='1000';gIz='x/pr';uHz='setu';ZXz='nk2s';vFz='r ap';cRz=' cor';gEz='e ki';TVz='RACT';HRz='sum ';icz='  AC';RRz=' Int';VNz='c8c1';kVz='telo';OEz='dev/';Uaz='kage';WHz='   K';hez='atte';bHz=' X"';kJz='\n"';ez='ME -';ZIz='RL="';fz='maxd';SGz='n/ax';PDz='upda';gKz='upte';tEz=')';kcz=' KEY';sdz=' Inc';WMz='04dd';Nbz='epen';NWz='"\$C';MXz='PLAC';qYz='ER|$';ngz='ds/m';KJz='L}"';BHz='mand';xUz='E"/k';Ifz='NetH';nRz='t re';lFz=' [!]';tXz='OME_';XRz='orry';ohz='  └─';nQz='re, ';gBz='rchi';NJz='fs="';BVz='"/ro';rVz='eati';kGz='_BIN';BSz='_spi';PJz='-net';ZKz='d im';DFz='(si+';PIz='r-ro';sXz='-b H';Mhz=' Enj';lz='tar.';JKz='ow-p';oOz='8d60';XBz='owna';wdz='Atte';QYz='LANG';dhz='x${y';acz='TEMP';SFz=' \';DHz='ts &';QXz=' "PR';kFz='red}';IMz='7732';iXz='DER ';az='nup(';hfz='er 8';jfz='.8\n';JBz='-f "';Bgz='&& r';yJz='} --';DDz='\n\n';jGz='ONTS';aWz='══╗"';ZMz='bfab';FKz='"$ro';ygz='uld ';Edz='EE k';pGz='" -f';CQz='pt."';pUz='ctio';SWz='33m ';Ydz='o fi';iWz='⚡   ';ARz='256 ';rbz=' D E';gWz='ep T';FLz='l ch';XIz='MIRR';vYz='s|HO';Vaz='s...';iZz='e() ';tbz='   T';QUz='$!';CWz='LOAD';kLz='f748';ILz='}-${';Ybz='EP" ';laz=' -y ';sVz='{bin';RQz='_has';wBz='arch';dz=' $HO';Ubz='p 0';SRz='ty c';bOz='936a';cTz='r -p';pMz='553d';UPz='3a83';LHz='ock ';CBz=' "$H';ZHz=' L I';maz='2>&1';GZz='0 $b';IHz='LINU';Mz=';34m';AHz=' com';aIz='http';lUz='] Re';Tgz='O $H';sfz='fina';xFz=' Exi';sHz='| tr';Wez='KEY"';EQz='s "$';qZz='1 ]]';fhz='e  │';wFz='t"';VZz='li L';Rhz='} ╚═';KXz='"PRE';AQz='the ';eDz='t}\n';ehz=' → K';nbz='"${c';fTz='NATI';jYz='n "\';XLz='16c6';ocz=' ║"';tTz=' -C ';xGz='ter';GLz='=$2';Ugz='sh |';Lbz='n}  ';BJz='} [*';qcz='══╝$';gFz='NST_';bCz='esac';sKz=' dow';tZz='"--i';ubz=' E C';tJz='l" ]';LTz=' wil';hz=' 1 -';LVz='k';bQz=' ]; ';vez='══╣"';ZJz='z"';EWz=' ""';PGz='e $P';Abz='}  %';afz='or Y';vDz=' "  ';ZGz='ev/n';MYz='term';egz='com/';wIz='gett';WZz='inux';QTz='utes';Gbz='$ela';pJz='"$PR';ecz='t=1';fGz='IN="';cOz='23" ';DIz='wnlo';FIz='ethu';Nfz='s';uEz='l sf';qfz='conf';NQz='crip';udz='ct k';xHz='URL=';kez='pt +';XPz='e414';YWz='t}  ';ZSz=' "$s';FHz='ll; ';wOz='c9d0';RVz='mv "';Rdz='ad t';sGz='c ye';oEz='si=$';rDz='$i ]';dHz='set}';PXz='tmp"';dLz='aa" ';BLz='56()';nDz=' -e ';JJz='${UR';Cz='3[1;';eUz='ON/u';CMz='fc85';Xgz=' "ht';Ahz='not ';vfz='[ -e';LDz='he..';Bz=''\''\03';Kcz='tion';oWz='ing ';Thz='  ┌─';CUz='l ||';dRz='rupt';XJz='H}.t';vMz='47f7';yFz='...$';dXz='000:';Taz=' pac';APz='45e8';FWz='PREF';nEz='o';ZFz='p 1';Ffz='] In';sPz='le n';tIz='v3.1';KKz='rogr';tPz='ot f';yVz='unse';vKz='fres';ITz='... ';CSz='nner';RDz='y &>';Wdz='n bl';JGz='ds]$';VGz='all ';KWz='in/c';CLz='l ar';phz='┘\n"';eMz='abc4';ndz=' ] &';XDz=' for';ZVz='rf "';PCz='SETA';NLz=' "b8';Hdz='ttps';OCz='a)';Lz='33[1';KOz='4-na';vaz='ID" ';fFz=' "$I';ADz='╝${r';Pgz='head';COz='ab8c';qSz='ed+1';VVz='IR"/';MBz='-kal';dIz='ub.c';WGz='-y a';JTz=' ⏱  ';nCz='╗"';Cgz='m $H';mGz=' the';Ncz='LID_';nhz='  │\';xOz='0951';HJz='\n f';ANz='fa74';Aez='t}/$';cBz='d} [';CHz=' -v ';Hez='ter ';kWz='   ╚';RZz=' ⚡  ';pOz='ec64';mUz='tryi';RKz='onti';naz='; np';WYz='cal/';JQz='ase ';KIz='root';aYz='/sbi';MLz='ll) ';oBz='ksys';lWz='══╝"';HPz='6bae';raz='nts ';WWz='3[0m';jWz='║"';fOz='761b';Lcz='_key';oIz='/v3.';bGz='|| t';MUz=') &';dBz='*] U';NCz='4-v8';UNz='0097';tgz='[ -s';JZz='oot';yKz='get_';Uz=';36m';rHz='ll |';mdz='gt 1';qJz='EFIX';YJz='ar.x';cdz='────';TCz='abi|';hHz=' All';uez='"  ╠';GEz='g ${';nUz='ng e';WOz='288f';rFz='net ';ldz='pt -';Zcz='X_AT';Odz='it t';rUz='E" 2';BFz='cut ';KUz='ION"';KSz='l el';TDz='v/nu';gQz='icia';MTz='l ta';SBz='{';yMz='00da';xdz='mpt ';RUz=' "Ex';wKz='h im';mVz='ile(';rXz='rd \';cPz='16d9';FBz='ali.';CCz='case';bgz='thub';eFz='wait';sLz='961d';aEz='⠼⠴⠦⠧';Aaz='er_d';GJz='ile"';jBz=':("';hPz='kint';wMz='3f4e';hUz='ract';yZz='bann';khz='li R';NNz='b59c';HVz=' != ';hNz='df1c';GCz='o.pr';mTz=' tar';wYz='ME_P';wVz='< EO';IJz='rom ';Uez=' "$U';CDz='}"';Ucz='8881';CJz='] Fe';rNz='ho "';Ibz=' "$B';XEz='l sp';uBz='ng h';Ofz='ION=';DZz='X}|g';pfz='olv.';gVz='ck t';iLz='ba9f';dVz='n fa';uZz='nsec';lZz='-#"';CGz='r${g';VDz='Chec';OJz='kali';dJz='{roo';YHz=' I  ';bUz='N/et';QGz='REFI';gdz=' -le';Qbz='read';wDz='+ ${';HTz='x Ro';PTz=' min';dMz='16ff';dZz='=/ro';pbz='   S';Chz='.sh,';rGz='ck -';hJz='${DE';yRz='rm -';eKz=' is ';MSz='d=0';XTz=' be ';iIz='dist';iOz='401a';aCz=';';GPz='11b2';bWz='  ⚡ ';LUz=':';iaz='g in';LOz='no) ';Lez=' -r ';LKz='ess ';ncz='D   ';Rcz='4611';kgz='nux/';Kez='ey: ';SSz='+1) ';GYz='\${u';eHz='${gr';Qhz='  ║\';NOz='4af4';wUz='in "';Xdz='og t';mNz='b7dd';bYz='n:/u';mcz='UIRE';TWz=' ===';eBz='nkno';yIz='le()';tLz='008b';yOz='ab8a';Igz='onte';wGz=' cen';GSz='l pi';RHz='"${y';PMz='36" ';kNz='9295';ABz='() {';EZz='chmo';dUz='[ -d';Zdz='nd y';Yhz=' Typ';wWz='user';bMz='7b4d';cDz='ols.';OQz='t."';Nz=''\''';pRz='d} E';Tbz='   \';Zbz='-f s';caz='1-2 ';OVz='TRAC';HMz='3eda';aQz='ash"';SLz='92f7';Khz='ompl';yXz='/env';KPz='9693';GWz='IX_P';Gez='� En';faz='..  ';RJz='er-r';PEz='null';DMz='8a5a';yNz='a025';iCz='kdep';cHz='"  =';EHz='>/de';Saz='ired';tYz=' "$b';xez='t yo';DLz='ch=$';VUz='(ple';xIz='arfi';QEz=' 2>&';UVz='ED_D';kSz='sg" ';MVz=' -n ';jFz='r"';PRz='= "$';LRz='$1}'\''';NEz='" >/';hZz='tlin';YCz='*)';nTz=' -xJ';TLz='019a';lNz='3c97';KHz='f bl';iTz='proo';OXz='DER/';cQz='${ye';qEz='si+1';eWz='by S';cMz='6d88';oCz='║   ';Gz='\033';DCz=' $(g';jZz=' " #';DKz='URL"';Hcz='}  ╚';AVz='* "$';Gdz='   h';HSz='d=$2';SNz='62b9';rRz='ted:';Lgz='chcl';KQz='re-r';TFz='"$sf';JNz='a728';uDz='echo';IPz='d687';BOz='601e';scz='lue}';UOz='c792';lQz='chit';iKz=' hal';efz='lvco';WSz='ame';GHz='then';Vz='rese';qFz='nter';TZz='rtin';FUz=' "$r';pFz='ur i';BUz='TION';ORz='l_ha';Obz='denc';SUz='trac';yHz='"htt';QJz='hunt';YOz='7d37';Eaz='Inst';Phz='r   ';uQz='rn 0';GQz='s em';vVz='in <';dSz='c$((';Bbz='s  I';TQz='56 "';fQz=' off';vPz='. Pl';dcz='temp';UUz='tfs ';vJz=' ${E';kQz='s ar';EXz='er}';aPz='f18f';vTz='N" 2';VHz='"   ';Sbz='%ds]';yTz='$DES';Wgz=' -sL';lPz='nteg';xaz='% 4 ';iFz=' || ';IEz='( ap';Scz='aab1';cUz='c" ]';PQz='expe';Kz='='\''\0';kz='li*.';YIz='OR_U';PHz='ue -';lJz='f "$';iYz='logi';nJz=']; t';IOz='5994';aVz='2>/d';cbz='whit';mYz='sed ';VXz='exec';tRz='d} G';fNz='2513';Vez='SER_';aMz='d9b9';FZz='d 70';BGz='n"';Wbz='" "S';fPz='*) e';hMz='786d';EKz=' -o ';iQz='sh f';PUz='PID=';lIz='ses/';nYz='-i "';UWz='==="';ZTz='ent!';Kgz='om/s';Dez='EMPT';mXz='proc';cKz='is i';Mbz='✓  D';Wz='t='\''\';MCz='arm6';Pez='ER_K';YVz='| :';uVz='> $b';SVz='$EXT';NTz='ke 1';DEz=' ⏳ I';wPz='ease';fgz='sand';OTz='0-15';Pfz='E/ch';Lhz='ete!';Fhz='e';oZz='[ ! ';vcz='s an';jHz='ende';aZz='...\';uMz='eb4f';ENz='c" ;';BIz='/kal';YTz='pati';jgz='i-li';PVz='TED_';uTz='"$DE';Xez=' = "';pNz='imal';TUz=' roo';pVz='ux';tMz='2365';mOz='223b';pYz='ST_P';cGz='rue';rYz='{DES';GRz='a256';UXz='/tmp';sez=' Den';HEz='i}..';JRz=''\''{pr';oMz='121b';KZz='Webs';CPz='eaff';Idz='://s';uPz='ound';Qgz='s/ma';qVz='] Cr';NUz='EXTR';Vbz='eps';Yfz='urin';OPz='o) e';Mgz='oud/';NHz='ello';qez='. Ac';cLz='4dc5';MQz='he s';qMz='0347';TRz='heck';DNz='2d0f';pXz='/shm';UKz='th a';MJz='HOME';Iz='3m'\''';NXz='EHOL';PBz='setc';iUz='ion ';jaz='l no';Oaz='║  ⏳';wJz='XTRA';mRz=' jus';qgz='/st-';OKz='O "$';aXz='ymli';xSz='act(';YRz=' :( ';BCz='"';Vfz='ile';FSz='1"';BWz='_PRE';bz=') {';Fez='}  �';Ebz='s]${';qKz='uall';bNz='e95a';SYz='TF-8';OOz='62af';aLz='6588';aOz='aa44';CZz='|${P';uYz='in"';JWz='ER/b';xz='_cle';ghz='}kal';iBz='ure ';nVz='bin=';xYz='{HOM';uGz=',blu';ufz='k() ';UDz='ll';tQz='retu';Cbz='g...';cJz='ng $';pz='-exe';sFz='conn';Xz='0m'\''';nMz='"08f';Qcz='f011';Uhz='┐\n"';pdz='ho -';kHz='ncie';SEz='&';ccz='l at';qXz='sdca';Qz='033[';lOz='1b2b';SQz='h=$(';wfz='ME/s';QCz='RCH=';TJz='s-${';Xhz='  🎮';Hgz='serc';lhz='oot ';ZNz='c654';kbz='lue ';pgz='-o $';VPz='abea';nWz='tart';fMz='b1d1';STz=' ☕ G';YFz='slee';qGz=' blo';oGz='INUX';rLz='2475';PFz='ed]$';GGz='8s i';dgz='ent.';TIz='{SET';odz='& ec';jPz='ty()';KVz='brea';tWz=' Mod';rfz='nf';cZz='t';pLz='c993';Ccz='reat';Zz='clea';ahz='{gre';QMz='i386';IIz='curr';fez='d! S';LNz='967b';cez=' Key';mQz='ectu';EMz='d4e4';hcz='  🔐';Dz='31m'\''';Dbz=' [%d';CTz='Extr';yQz=' SHA';VLz='dfe3';TBz='chro';mEz='l; d';wEz='(ech';ODz='apt ';kUz='!${r';Fdz='ey:"';hLz='5a4a';uIz='0.0.';ihz='}   ';jTz='t --';gLz=' "b1';ZOz='dff6';mZz='AARG';DVz='r" ]';OLz='098f';OGz=' ! -';VYz='r/lo';fHz='een}';kYz='${@}';XMz='9df2';bLz='6055';OSz=' 2>/';JPz='6929';ZCz='rch;';VWz='=\03';JMz='b12c';bbz=' -c ';NSz='pid"';ybz='}  ╔';Yez='$VAL';tFz='ecti';hSz='"$fr';BQz='scri';rIz='RCH}';FDz='ue} ';gfz='serv';pHz='ade ';Cfz='  ${';hBz='tect';FYz='AME=';cFz='+1))';ucz='ller';pSz='$((e';QWz='N" "';Mcz='l VA';QSz='i=$(';rJz='/bin';oez=' Inv';DOz='7236';Icz='k_ac';LJz='cd $';yPz='run ';rBz='e [*';BEz='${cy';PLz='c90e';IZz='ux-r';qCz=' INS';uFz='on o';QLz='d74a';SIz='t}-$';sbz=' E P';OMz='7d24';xCz='   ║';MPz='b5" ';tGz='llow';JXz='DIR=';YXz='--li';cVz='!] E';UYz='=/us';vWz='.\${';Pz='n='\''\';VQz='ot")';GTz='Linu';PYz='r}" ';ICz='t.cp';jez='$((a';Udz=' ins';gNz='dc90';QRz='h" ]';bVz='|| :';DWz='r';Qdz='& re';WRz='d} S';yWz='i';bXz='nk \';VEz='=$!';Agz='h ] ';hgz='echc';FQz='le i';mPz='rity';XCz='f;;';DRz='al_h';gaz='═══╝';XYz='sbin';UMz='"a9e';qQz=' ver';IGz='! [%';OIz='unte';sQz='atio';Bez='{MAX';JYz='="\$';hKz='d or';eQz='] No';ifz='.8.8';eTz='ESTI';UTz='a co';IWz='HOLD';XFz='"$se';dQz='} [!';oSz='sed=';sBz='] Ch';Ldz='om"';qDz='bin/';rdz='}  ✗';YLz='0af4';rWz='ux (';wHz=' {';Tdz='x"';vQz='*] V';EVz=' && ';AUz='TINA';gDz='i in';eOz=' "d0';Bhz=' st-';haz='( pk';sZz='[ $E';Jhz='on C';fWz='ande';Daz='\'\''';lcz=' REQ';bcz='TS=3';UIz='ARCH';YEz='in='\''';yEz='spin';Ogz='efs/';YMz='1da4';DTz='acti';CVz='"$di';Ycz='l MA';HHz='ts "';fbz='EEP"';uz=' :';Ecz='y - ';uSz='$msg';Yz='pre_';Ocz='KEY=';IBz=' rm ';idz='TS ]';Sdz='he K';VIz='}.ta';kRz='t wo';hRz='ed, ';IQz=' Ple';gz='epth';Cez='_ATT';Wcz='2de1';Afz='ey a';NBz='i.sh';KLz=' in';Zgz='//ra';DUz='tar ';sJz='/axe';Faz='alli';vbz=' H"';YGz='&>/d';Yaz='� Th';Egz='/raw';Pdz='ite ';GOz='a23a';xPz=' re-';oRz='my s';lVz='ginf';UFz='" "$';Tez=':]'\'')';NPz='-nan';uXz='-w \';ISz='l i=';VKz='lrea';CEz='an} ';NFz='ds e';LMz='609d';pTz='rip-';UBz='ot=f';baz='ake ';mFz=' ERR';lGz='" ];';cXz='-i 1';PKz='fs"';qdz='{red';VMz='e9c5';NKz='L" -';CIz='i.do';CYz='} \\';MWz='s"';qNz=') ec';Maz='} ╔═';eYz=':/bi';OBz='" ||';FPz='9035';HGz='lled';SOz='d856';DQz=' 1';IXz='_TMP';KYz='{TER';aez='"${g';vgz='=$SE';gcz='"  ║';yUz='-* "';Xbz='ANDE';uWz='e)..';YZz='OT M';EYz='LOGN';xZz='all_';HQz='pty.';kOz='05db';NDz='}\n"';kaz='dejs';Hfz='lizi';XNz='"63c';oTz='--st';WVz='ION/';sTz='ts=1';jLz='b1c6';fSz='))';nFz='OR: ';ONz='629e';Kdz='ch.c';Rez=''\''[:s';Xfz='nfig';DPz='32c8';tHz='ue';EGz='}  ✓';Eez='S}${';sMz='b632';uUz='R=""';eJz='tfs}';HIz='ges/';ogz='ain/';bKz='f th';VTz='ffee';hCz='CH}"';YSz='e=$(';Rbz='y! [';ddz='e [ ';qBz='$blu';fIz='ermu';NYz='-256';mbz='ente';jbz='te,b';fcz='═══╗';EBz='st-k';VJz='${SE';jhz='→ Ka';oUz='xtra';tdz='orre';NZz='/san';HCz='oduc';SCz='arme';cSz='ut -';fEz='whil';lfz='.4\n';eGz='TS_B';xVz='M';FMz='b18f';YKz='oade';xWz='=kal';VCz='v7a)';YQz='pect';Nhz='oy K';Raz='requ';RGz='X/bi';ACz=' ...';vGz='e -a';fUz='sr" ';Oez='"$US';FNz='f-mi';Hhz='} ║ ';WBz='unkn';adz='our ';tOz='595f';pZz='-z $';kKz='aded';TOz='5a90';EJz='ng t';Fbz='e" "';Waz='  ║"';INz='13cc';Ghz='╗\n"';nPz=' of ';KFz='ling';yLz=' "a6';CNz='61eb';mSz='d"';jz=' "ka';Wfz='] Co';mez='ed} ';FOz='bb9b';gHz=' [*]';xTz='-C "';Rgz='in/s';bEz='⠇⠏'\''';Sgz='h" -';AGz='et}\';DYz='USER';YPz='0f67';jCz='s() ';LWz='font';WQz=' -z ';WTz=' and';Jgz='nt.c';KDz=' cac';MMz='377b';GFz='r${c';vHz='rl()';Ehz='ppin';mHz='ecke';fLz='f-fu';MZz=' htt';MHz='-c y';XWz='"\${';chz='linu';kCz='ow} ';MRz=' "$a';uRz='ot: ';XUz=' "$E';lez=' 1))';uOz='df" ';yfz='li.s';ETz='ng K';RCz='4;;';uJz='axel';qHz='-y &';ggz='eept';kBz='\n${';FVz='[ "$';Cdz=' you';mCz='════';lBz='t}"';tSz='in %';gXz='-r D';Ddz='r FR';xMz='df88';XHz=' A L';jMz='06e9';sIz='-pd-';yz='anup';aTz=' ╚══';IKz='--sh';QFz='{res';aFz='se=$';oYz='s|DE';KTz='This';xJz='ARGS';dDz='..${';gez='all.';gMz='0b2c';Sfz='le';SMz='l) e';sDz='; th';EUz='-xJf';bFz='((se';sCz='ATIO';AYz=' -i ';yDz='s OK';MGz='se"';aKz='age,';JDz=' apt';ZUz='ID"';Efz='om${';Vcz='083f';JEz='t in';JHz='X" -';wbz='===$';rez='cess';tfz='lwor';Gcz='TECH';ATz=' ║  ';gTz='ON"';nNz='6" ;';ofz='/res';BNz='62b0';uCz='ARTE';Jdz='epte';Hbz='psed';KEz='stal';oDz='$PRE';REz='1 ) ';HYz='ser}';Gfz='itia';fVz=' che';nXz='-b D';BRz='hash';wRz='tual';UZz='g Ka';KCz='i) i';ffz='nf()';ERz='ash=';SXz='CEHO';jQz=' thi';VFz='{i}.';kPz='ng i';EEz='nsta';Laz='es..';bTz='mkdi';LQz='un t';wgz='H ba';YYz=':/us';yYz='E}|g';ESz='g="$';ZBz='prin';HBz='] &&';rMz='6b82';WIz='r.xz';bez='  ✅ ';oaz='m in';Kbz='D"';agz='w.gi';pWz='Kali';igz='loud';cEz='l si';jIz='ro/r';kMz='3" ;';GXz='rt P';lTz='2sym';KNz='cf3c';UJz='ot}-';ZWz='   ╔';AKz='alte';sUz='ACTE';vCz='D 🚀';SDz=' /de';mhz='Mode';fdz='empt';jKz='f do';sSz='one ';JVz='R="$';GNz='"1ff';lSz='"$el';aJz='*] P';wQz='erif';pIz='10.0';jEz='" 2>';SHz='w}  ';XVz='IR" ';lKz='n "';bhz='en}k';Zez='ID_K';cYz='sr/b';EDz='${bl';xcz='ivat';uKz='d a ';dEz='=0 s';eSz='i+1)';lRz='rry,';UHz='="';pQz='ping';cIz='gith';nSz='elap';pBz='info';mfz='" > ';sgz='"$HO';tDz='en';MEz=' "$i';lYz='EOM';EIz='ad/n';FXz='expo';nLz='cb77';cfz='.."';ZZz='ode)';kIz='elea';gbz='slic';kfz='.8.4';GVz='dir"';UGz='inst';wSz='extr';nKz='elet';BPz='a5ea';ZDz=' req';iz='name';Fz='ow='\''';oLz='c9e9';bZz='=roo';ycz='key.';THz='====';kZz='----';dOz='f-na';xgz='sh $';LBz='E/st';RBz='t() ';Rz='1;32';gRz='alf ';Zhz='e  $';sYz='}|g"';PWz='S_BI';jRz='don'\''';qUz='n...';Oz='gree';ZEz='⠋⠙⠹⠸';obz='  ==';vRz=' $ac';Qaz=' up ';taz='l BG';Qfz='i-$S';qRz='xpec';qTz='comp';AFz='" | ';BYz='=\${';XQz='"$ex';iNz='ed13';RWz='"\03';QQz='cted';Ohz='Neth';kdz='ttem';HUz='C "$';rTz='onen';Fgz='.git';MKz='"$UR';VBz='ull';gYz='/bas';BKz='rnat';WNz='d" ;';iPz='egri';USz=' ))';sz='{} \';Hz='[1;3';tUz='D_DI';cCz='\n [';aaz='ay t';jSz=' "$m';IVz='N" ]';gUz=' Ext';mDz='if [';QPz='3dfc';oPz='file';eIz='om/t';qaz=' cfo';hWz='ech ';bfz='ou .';oz='e f ';dbz='e,bl';jJz='N}"';OUz='ACT_';Iaz='r de';WCz='armh';Ihz='✅ In';WUz='...)';eaz='tes.';gPz='"" ;';iHz=' dep';Kfz='lati';pez='alid';oHz='upgr';KRz='int ';MDz='.${r';iDz='ot t';mMz='nima';jDz='ar w';Qez='EY" ';ELz='1';QOz='4512';HXz='ROOT';nez='  ✗ ';DGz='reen';GKz='wget';qIz='i-${';ECz='etpr';SZz=' Sta';Zfz='li F';aUz=' -d ';tBz='ecki';ASz='show';LPz='fe68';RIz='-${c';oFz='k yo';iSz='ame"';XOz='35d3';XXz='\';RSz='( (i';wLz='64" ';dFz='done';Tfz='ty';jVz='crea';WXz='ot \';JUz='INAT';vIz='xz"';MNz='d2c8';fZz='-0 \';TKz='g wi';AJz='rl';iEz='0 "$';kDz='get;';ZPz='2c45';BMz='f39d';HDz='Upda';dKz='mage';bSz=' | c';uLz='dc64';Ufz='act';rZz='S=$1';pcz='"  ╚';Jfz='r In';QIz='otfs';fXz=' \\';WJz='TARC';nOz='0e3e';hDz=' pro';Caz='|/-\';FRz='$(sh';hXz='EST_';saz=' ) &';QNz='9f4b';BXz='=/ho';Xaz='║  �';Mfz='nup';iVz='ve.$';wz='post';Whz='│\n"';ydz='${at';RXz='_PLA';TXz='LDER';mz='xz" ';RTz='.   ';LLz='4-fu';LSz='apse';vBz='ost ';WEz='loca';IRz='awk ';yBz='ture';qWz=' Lin';Fcz='EEP ';Gaz='ng b';QHz='a ce';mLz='3d08';iRz='but ';CKz='e "$';Kaz='enci';Lfz='on..';OFz='laps';rPz='d fi';FCz='op r';YDz=' all';wZz=' ]];';mIz='down';dez=' Ver';paz='l -g';WDz='king';BBz='[ -f';Jbz='G_PI';sRz=' $ex';kTz='link';PSz='; do';lCz='╔═══';bBz='${re';Pcz='"de4';Vhz='  │ ';ibz=' whi';bRz=' was';jcz='TIVA';HLz=' "${';TEz='INST';XZz=' (RO';xNz='2ec6';KMz='ba07';nz='-typ';TPz='62dd';Shz='══╝\';eez='ifie';yez='ur k';LFz=' %-8';mWz='n} [';kXz='-b /';hdz=' $MA';dGz='CFON';hYz='h --';CRz='actu';Naz='═╗"';FFz='[2K\';TSz='% 10';LIz='fs/k';eZz='ot';EFz='1)))';xDz='i} i';xEz='o "$';GUz='s" -';XKz='ownl';bIz='s://';aNz='30b3';vZz='ure"';dYz='in:/';hQz='l ha';nZz='S=""';Tz='cyan';hhz='nux-';fDz='for ';xXz='/usr';UQz='$SET';qPz='!] D';rcz='"${b';GIz='-ima';ebz='SAND';NVz='"$EX';WPz='847e';FTz='ali ';HNz='5a83';FEz='llin';HKz=' -q ';vdz='ey! ';PPz='"12c';AOz='deec';Ggz='hubu';Paz=' Set';tKz='nloa';nHz='d!${';iMz='52ca';rCz='TALL';LEz='l -y';LYz='M:-x';GDz='[*] ';vOz=' "61';Dgz='sh';SPz='6936';sOz='d70c';Bdz=' Get';eRz='ed "';xRz='h"';AEz='else';rgz='.sh';DSz='l ms';IDz='ting';dNz='f530';oVz='-lin';BDz='eset';Bcz='⚡  C';Ygz='tps:';rSz='  [d';MFz='s [%';TGz='el ]';ZLz='87b0';CXz='me/\';aGz='ull ';abz='lick';wcz=' act';Vdz='tall';gZz='t \\';rOz='391f';XGz='xel ';Nez='=$(e';tNz='d3ef';LCz='n';dfz='reso';pCz='  🚀';QVz='DIR"';wNz='9d5a';QKz='!] c';Jez='on k';SKz='nuin';pPz='..."';wTz='| \';Dhz=' ski';VRz='SED!';Jaz='pend';AMz='673e';OWz='FONT';Sez='pace';mKz='\n d';pDz='FIX/';tcz='  Th';qLz='eb54';pEz='(( (';Pbz='ies ';MIz='ali-';Zaz='is m';Vgz='curl';nBz='chec';GBz='sh" ';JIz='ent/';vz='}';dWz='ted ';hEz='ll -';uaz='BG_P';EPz='e80e';nfz='/etc';Tcz='5fef';ySz=' ╔══';yCz='╚═══';KGz='n" "';nGz='" "L';oQz='skip';sEz='10 )';xbz='"${r';eCz='ETAR';ZQz='ed_h';vSz='sed"';oXz='dev:';sWz='User';tz='; ||';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Kz$Lz$Uz$Nz$z$Vz$Wz$Qz$Xz$z$Yz$Zz$az$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$z$vz$z$wz$xz$yz$ABz$z$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$z$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$uz$z$vz$z$PBz$QBz$RBz$SBz$z$TBz$UBz$VBz$z$vz$z$WBz$XBz$YBz$bz$z$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$ZBz$aBz$kBz$Vz$lBz$z$mBz$z$vz$z$nBz$oBz$pBz$ABz$z$ZBz$aBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$z$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$z$MCz$NCz$OCz$z$PCz$QCz$MCz$RCz$z$SCz$TCz$SCz$UCz$VCz$z$PCz$QCz$WCz$XCz$z$YCz$z$WBz$XBz$ZCz$aCz$z$bCz$z$ZBz$aBz$cCz$dCz$eCz$fCz$gCz$eCz$hCz$z$vz$z$nBz$iCz$jCz$SBz$z$ZBz$aBz$kBz$Ez$kCz$lCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$nCz$z$ZBz$aBz$kBz$Ez$kCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$BCz$z$ZBz$aBz$kBz$Ez$kCz$yCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$ADz$BDz$CDz$z$ZBz$aBz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$BDz$NDz$z$ODz$PDz$QDz$RDz$SDz$TDz$UDz$z$ZBz$aBz$EDz$FDz$GDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$Vz$eDz$BCz$z$fDz$gDz$hDz$iDz$jDz$kDz$lDz$z$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$z$uDz$vDz$wDz$xDz$yDz$BCz$z$AEz$z$ZBz$aBz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$MDz$BDz$NDz$z$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$z$TEz$UEz$VEz$z$WEz$XEz$YEz$ZEz$aEz$bEz$z$WEz$cEz$dEz$eEz$z$fEz$gEz$hEz$iEz$TEz$UEz$jEz$kEz$lEz$mEz$nEz$z$oEz$pEz$qEz$rEz$sEz$tEz$z$WEz$uEz$z$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$z$ZBz$aBz$Gz$FFz$GFz$HFz$IFz$JFz$KEz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$z$TFz$UFz$VFz$WFz$XFz$BCz$z$YFz$ZFz$z$aFz$bFz$cFz$z$dFz$z$eFz$fFz$gFz$hFz$iFz$SBz$z$ZBz$aBz$Gz$FFz$jFz$z$ZBz$aBz$kBz$kFz$lFz$mFz$nFz$nBz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$z$ZBz$aBz$kBz$kFz$lFz$xFz$IDz$yFz$QFz$AGz$BGz$z$mBz$z$vz$z$ZBz$aBz$Gz$FFz$CGz$DGz$EGz$FGz$GGz$EEz$HGz$IGz$JGz$QFz$AGz$KGz$LGz$UFz$MGz$z$NGz$z$dFz$z$mDz$OGz$PGz$QGz$RGz$SGz$TGz$sDz$tDz$z$ODz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$z$NGz$z$dGz$eGz$fGz$oDz$pDz$qDz$gGz$hGz$z$mDz$rz$iGz$jGz$kGz$lGz$mGz$LCz$z$iGz$jGz$kGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$z$yGz$AHz$BHz$CHz$gGz$DHz$EHz$TDz$FHz$GHz$z$gGz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$qFz$z$AEz$z$uDz$nDz$RHz$NHz$SHz$THz$THz$THz$THz$THz$THz$THz$UHz$z$uDz$nDz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$z$uDz$nDz$cHz$THz$THz$THz$THz$THz$THz$THz$bBz$dHz$BCz$z$NGz$z$ZBz$aBz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$Vz$eDz$BCz$z$ODz$oHz$pHz$qHz$EHz$TDz$rHz$sHz$tHz$z$vz$z$uHz$vHz$wHz$z$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$qFz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$RIz$QBz$SIz$TIz$UIz$VIz$WIz$BCz$z$XIz$YIz$ZIz$aIz$bIz$cIz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$lIz$mIz$nIz$oIz$pIz$BIz$qIz$PCz$rIz$sIz$tIz$uIz$lz$vIz$z$vz$z$wIz$xIz$yIz$wHz$z$uHz$AJz$z$ZBz$aBz$kBz$Jz$BJz$CJz$DJz$EJz$FJz$GJz$z$ZBz$aBz$HJz$IJz$JJz$KJz$z$LJz$MJz$z$KIz$NJz$OJz$PJz$QJz$RJz$SJz$TJz$TBz$UJz$VJz$WJz$XJz$YJz$ZJz$z$ZBz$aBz$cCz$aJz$bJz$cJz$dJz$eJz$BCz$z$ZBz$aBz$fJz$gJz$hJz$iJz$sCz$jJz$z$ZBz$aBz$bBz$dHz$kJz$z$mDz$OGz$lJz$KIz$mJz$nJz$oJz$z$mDz$nDz$pJz$qJz$rJz$sJz$tJz$sDz$tDz$z$uJz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$QIz$OBz$SFz$z$GKz$HKz$IKz$JKz$KKz$LKz$MKz$NKz$OKz$KIz$PKz$z$AEz$z$GKz$HKz$IKz$JKz$KKz$LKz$MKz$NKz$OKz$KIz$PKz$z$NGz$z$AEz$z$ZBz$aBz$bBz$cBz$QKz$RKz$SKz$TKz$UKz$VKz$WKz$XKz$YKz$ZKz$aKz$BCz$z$ZBz$aBz$fJz$bKz$cKz$dKz$eKz$fKz$gKz$hKz$iKz$jKz$DIz$kKz$mGz$lKz$z$ZBz$aBz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$BCz$z$ZBz$aBz$bBz$dHz$kJz$z$NGz$z$vz$z$yKz$ALz$BLz$wHz$z$WEz$CLz$DLz$ELz$z$WEz$FLz$KIz$GLz$z$CCz$HLz$wBz$ILz$TBz$JLz$KLz$z$MCz$LLz$MLz$uDz$NLz$OLz$PLz$QLz$RLz$SLz$TLz$ULz$VLz$WLz$XLz$YLz$ZLz$aLz$bLz$cLz$dLz$eLz$z$WCz$fLz$MLz$uDz$gLz$hLz$iLz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$qLz$rLz$sLz$tLz$uLz$vLz$wLz$eLz$z$xLz$LLz$MLz$uDz$yLz$AMz$BMz$CMz$DMz$EMz$FMz$GMz$HMz$IMz$JMz$KMz$LMz$MMz$NMz$OMz$PMz$eLz$z$QMz$RMz$SMz$TMz$UMz$VMz$WMz$XMz$YMz$ZMz$aMz$bMz$cMz$dMz$eMz$fMz$gMz$hMz$iMz$jMz$kMz$aCz$z$MCz$lMz$mMz$SMz$TMz$nMz$oMz$pMz$qMz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$DNz$ENz$aCz$z$WCz$FNz$mMz$SMz$TMz$GNz$HNz$INz$JNz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$VNz$WNz$aCz$z$xLz$lMz$mMz$SMz$TMz$XNz$YNz$ZNz$aNz$bNz$cNz$dNz$eNz$fNz$gNz$hNz$iNz$jNz$kNz$lNz$mNz$nNz$aCz$z$QMz$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$xNz$yNz$AOz$BOz$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$MCz$KOz$LOz$uDz$MOz$NOz$OOz$POz$QOz$ROz$SOz$TOz$UOz$VOz$WOz$XOz$YOz$ZOz$aOz$bOz$cOz$eLz$z$WCz$dOz$LOz$uDz$eOz$fOz$gOz$hOz$iOz$jOz$kOz$lOz$mOz$nOz$oOz$pOz$qOz$rOz$sOz$tOz$uOz$eLz$z$xLz$KOz$LOz$uDz$vOz$wOz$xOz$yOz$APz$BPz$CPz$DPz$EPz$FPz$GPz$HPz$IPz$JPz$KPz$LPz$MPz$eLz$z$QMz$NPz$OPz$TMz$PPz$QPz$RPz$SPz$TPz$UPz$VPz$WPz$XPz$YPz$ZPz$aPz$bPz$cPz$dPz$ePz$nNz$aCz$z$fPz$TMz$gPz$aCz$z$bCz$z$vz$z$nBz$hPz$iPz$jPz$wHz$z$ZBz$aBz$kBz$Jz$BJz$sBz$tBz$kPz$lPz$mPz$nPz$oPz$pPz$z$KIz$NJz$OJz$PJz$QJz$RJz$SJz$TJz$TBz$UJz$VJz$WJz$XJz$YJz$ZJz$z$mDz$OGz$lJz$KIz$mJz$nJz$oJz$z$ZBz$aBz$bBz$cBz$qPz$XKz$YKz$rPz$sPz$tPz$uPz$vPz$wPz$xPz$yPz$AQz$BQz$CQz$z$ZBz$aBz$bBz$dHz$kJz$z$mBz$DQz$z$NGz$z$mDz$OGz$EQz$KIz$mJz$nJz$oJz$z$ZBz$aBz$bBz$cBz$qPz$XKz$YKz$rPz$FQz$GQz$HQz$IQz$JQz$KQz$LQz$MQz$NQz$OQz$z$ZBz$aBz$bBz$dHz$kJz$z$mBz$DQz$z$NGz$z$PQz$QQz$RQz$SQz$yKz$ALz$TQz$UQz$UIz$UFz$TBz$VQz$z$mDz$WQz$XQz$YQz$ZQz$aQz$bQz$GHz$z$ZBz$aBz$cQz$tGz$dQz$eQz$fQz$gQz$hQz$iQz$uPz$XDz$jQz$kQz$lQz$mQz$nQz$oQz$pQz$qQz$rQz$sQz$BGz$z$ZBz$aBz$bBz$dHz$kJz$z$tQz$uQz$z$NGz$z$ZBz$aBz$cCz$vQz$wQz$xQz$yQz$ARz$BRz$pPz$z$CRz$DRz$ERz$FRz$GRz$HRz$FKz$QIz$AFz$IRz$JRz$KRz$LRz$tEz$z$mDz$MRz$NRz$ORz$GBz$PRz$PQz$QQz$RQz$QRz$sDz$tDz$z$ZBz$aBz$eHz$fHz$gHz$RRz$iPz$SRz$TRz$URz$VRz$BCz$z$ZBz$aBz$bBz$dHz$kJz$z$AEz$z$ZBz$aBz$bBz$WRz$XRz$YRz$ZRz$sKz$tKz$aRz$oPz$bRz$cRz$dRz$eRz$z$ZBz$aBz$fRz$gRz$mIz$nIz$hRz$iRz$jRz$kRz$lRz$mRz$nRz$yPz$oRz$NQz$wFz$z$ZBz$aBz$bBz$dHz$kJz$z$ZBz$aBz$bBz$pRz$qRz$rRz$sRz$YQz$ZQz$aQz$z$ZBz$aBz$bBz$tRz$uRz$wCz$vRz$wRz$RQz$xRz$z$ZBz$aBz$bBz$dHz$kJz$z$yRz$lJz$KIz$PKz$z$mBz$DQz$z$NGz$z$vz$z$ASz$BSz$CSz$ABz$z$WEz$DSz$ESz$FSz$z$WEz$GSz$HSz$z$WEz$XEz$YEz$ZEz$aEz$bEz$z$WEz$ISz$JSz$z$WEz$KSz$LSz$MSz$z$fEz$gEz$hEz$iEz$NSz$OSz$OEz$PEz$PSz$z$QSz$RSz$SSz$TSz$USz$z$WEz$VSz$WSz$z$XSz$YSz$uDz$ZSz$aSz$bSz$cSz$dSz$eSz$fSz$z$ZBz$aBz$Gz$FFz$GFz$HFz$IFz$IFz$gSz$JGz$QFz$RFz$SFz$z$hSz$iSz$jSz$kSz$lSz$LSz$mSz$z$YFz$ZFz$z$nSz$oSz$pSz$OFz$qSz$fSz$z$dFz$z$ZBz$aBz$Gz$FFz$CGz$DGz$EGz$IFz$rSz$sSz$tSz$JGz$QFz$AGz$KGz$uSz$UFz$nSz$vSz$z$vz$z$wSz$xSz$bz$z$ZBz$aBz$kBz$Ez$kCz$ySz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$nCz$z$ZBz$aBz$kBz$Ez$kCz$ATz$BTz$CTz$DTz$ETz$FTz$GTz$HTz$QIz$ITz$xCz$BCz$z$ZBz$aBz$kBz$Ez$kCz$ATz$JTz$KTz$LTz$MTz$NTz$OTz$PTz$QTz$RTz$xCz$BCz$z$ZBz$aBz$kBz$Ez$kCz$ATz$STz$TTz$UTz$VTz$WTz$XTz$YTz$ZTz$wCz$xCz$BCz$z$ZBz$aBz$kBz$Ez$kCz$aTz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$ADz$BDz$NDz$z$bTz$cTz$dTz$eTz$fTz$gTz$z$hTz$z$iTz$jTz$kTz$lTz$kTz$mTz$nTz$lJz$KIz$mJz$oTz$pTz$qTz$rTz$sTz$tTz$uTz$iJz$sCz$vTz$EHz$TDz$rHz$wTz$z$iTz$jTz$kTz$lTz$kTz$mTz$nTz$lJz$KIz$mJz$xTz$yTz$AUz$BUz$jEz$kEz$lEz$CUz$SFz$z$DUz$EUz$FUz$SJz$GUz$HUz$IUz$JUz$KUz$OSz$OEz$PEz$iFz$LUz$z$MUz$z$NUz$OUz$PUz$QUz$z$ASz$BSz$CSz$RUz$SUz$IDz$TUz$UUz$VUz$JQz$eFz$WUz$UFz$NUz$OUz$hFz$z$eFz$XUz$wJz$YUz$ZUz$z$mDz$aUz$uTz$iJz$sCz$bUz$cUz$iFz$dUz$dTz$eTz$fTz$eUz$fUz$nJz$oJz$z$ZBz$aBz$eHz$fHz$gHz$gUz$hUz$iUz$qTz$jUz$kUz$BDz$NDz$z$AEz$z$ZBz$aBz$cQz$tGz$BJz$lUz$mUz$nUz$oUz$pUz$qUz$bBz$dHz$kJz$z$iTz$jTz$kTz$lTz$kTz$mTz$nTz$lJz$KIz$mJz$xTz$KBz$rUz$EHz$TDz$rHz$wTz$z$DUz$EUz$FUz$SJz$GUz$HUz$MJz$jEz$kEz$lEz$CUz$uz$z$NUz$sUz$tUz$uUz$z$fDz$vUz$wUz$KBz$xUz$MIz$NIz$OIz$PIz$QIz$yUz$KBz$xUz$MIz$AVz$MJz$BVz$QIz$PSz$z$mDz$aUz$CVz$DVz$EVz$FVz$GVz$HVz$uTz$iJz$sCz$IVz$sDz$tDz$z$NUz$sUz$tUz$JVz$GVz$z$KVz$LVz$z$NGz$z$dFz$z$mDz$MVz$NVz$OVz$PVz$QVz$bQz$GHz$z$RVz$SVz$TVz$UVz$VVz$AVz$IUz$JUz$WVz$jEz$kEz$lEz$CUz$SFz$z$RVz$SVz$TVz$UVz$XVz$uTz$iJz$sCz$vTz$EHz$TDz$rHz$YVz$z$yRz$ZVz$SVz$TVz$UVz$XVz$aVz$ZGz$aGz$bVz$z$ZBz$aBz$eHz$fHz$gHz$gUz$hUz$iUz$qTz$jUz$kUz$BDz$NDz$z$AEz$z$ZBz$aBz$bBz$cBz$cVz$oUz$pUz$dVz$eVz$vPz$wPz$fVz$gVz$hVz$gBz$iVz$QFz$AGz$BGz$z$mBz$DQz$z$NGz$z$NGz$z$vz$z$jVz$kVz$lVz$mVz$bz$z$nVz$oDz$pDz$qDz$OJz$oVz$pVz$z$ZBz$aBz$kBz$Jz$BJz$qVz$rVz$cJz$sVz$CDz$z$ZBz$aBz$bBz$dHz$kJz$z$tVz$uVz$vVz$wVz$xVz$z$yVz$AWz$BWz$CWz$z$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Kz$Lz$Uz$Nz$z$Vz$Wz$Qz$Xz$z$Zz$DWz$z$uDz$EWz$z$dGz$eGz$fGz$FWz$GWz$HWz$IWz$JWz$KWz$LWz$MWz$z$mDz$rz$NWz$OWz$PWz$IVz$sDz$tDz$z$NWz$OWz$PWz$QWz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$qFz$z$yGz$AHz$BHz$CHz$gGz$DHz$EHz$TDz$FHz$GHz$z$gGz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$qFz$z$AEz$z$uDz$nDz$RWz$Cz$SWz$TWz$THz$THz$THz$THz$THz$THz$UWz$z$uDz$nDz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$z$uDz$nDz$cHz$THz$THz$THz$THz$THz$THz$THz$VWz$WWz$BCz$z$NGz$z$uDz$EWz$z$uDz$nDz$XWz$Vz$YWz$ZWz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$aWz$z$uDz$nDz$XWz$Vz$YWz$xCz$wCz$bWz$cWz$dWz$eWz$fWz$gWz$hWz$iWz$wCz$jWz$z$uDz$nDz$XWz$Vz$YWz$kWz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$lWz$z$uDz$EWz$z$uDz$nDz$XWz$Oz$mWz$dCz$nWz$oWz$pWz$qWz$rWz$sWz$tWz$uWz$vWz$Vz$lBz$z$uDz$EWz$z$wWz$xWz$yWz$z$AXz$BXz$CXz$DXz$EXz$z$FXz$GXz$HXz$IXz$JXz$KXz$LXz$MXz$NXz$OXz$PXz$z$bTz$cTz$QXz$qJz$RXz$SXz$TXz$UXz$BCz$z$VXz$hDz$WXz$XXz$z$YXz$ZXz$aXz$bXz$XXz$z$cXz$dXz$eXz$fXz$z$gXz$hXz$MXz$NXz$iXz$jXz$z$kXz$lXz$jXz$z$kXz$mXz$fXz$z$nXz$hXz$MXz$NXz$OXz$oXz$kEz$pXz$fXz$z$kXz$qXz$rXz$XXz$z$sXz$tXz$MXz$NXz$iXz$jXz$z$uXz$vXz$wXz$jXz$z$xXz$rJz$yXz$AYz$jXz$z$MJz$BYz$AXz$CYz$z$DYz$BYz$wWz$CYz$z$EYz$FYz$GYz$HYz$fXz$z$IYz$JYz$KYz$LYz$MYz$NYz$OYz$PYz$jXz$z$QYz$RYz$SYz$fXz$z$TYz$UYz$VYz$WYz$XYz$YYz$VYz$WYz$ZYz$xXz$aYz$bYz$cYz$dYz$XYz$eYz$fYz$z$rJz$gYz$hYz$iYz$jYz$kYz$BCz$z$lYz$z$mYz$nYz$oYz$pYz$HWz$IWz$qYz$rYz$AUz$BUz$sYz$tYz$uYz$z$mYz$nYz$vYz$wYz$HWz$IWz$qYz$xYz$yYz$UFz$AZz$z$mYz$nYz$BZz$qJz$RXz$SXz$TXz$CZz$QGz$DZz$UFz$AZz$z$EZz$FZz$GZz$HZz$z$nVz$oDz$pDz$qDz$OJz$oVz$IZz$JZz$z$ZBz$aBz$kBz$Jz$BJz$qVz$rVz$cJz$sVz$CDz$z$ZBz$aBz$bBz$dHz$kJz$z$tVz$uVz$vVz$wVz$xVz$z$yVz$AWz$BWz$CWz$z$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Oz$Pz$Qz$Rz$Sz$z$Tz$Kz$Lz$Uz$Nz$z$Vz$Wz$Qz$Xz$z$Zz$DWz$z$uDz$EWz$z$dGz$eGz$fGz$FWz$GWz$HWz$IWz$JWz$KWz$LWz$MWz$z$mDz$rz$NWz$OWz$PWz$IVz$sDz$tDz$z$NWz$OWz$PWz$QWz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$qFz$z$yGz$AHz$BHz$CHz$gGz$DHz$EHz$TDz$FHz$GHz$z$gGz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$qFz$z$AEz$z$uDz$nDz$RWz$Cz$SWz$TWz$THz$THz$THz$THz$THz$THz$UWz$z$uDz$nDz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$z$uDz$nDz$cHz$THz$THz$THz$THz$THz$THz$THz$VWz$WWz$BCz$z$NGz$z$uDz$EWz$z$uDz$nDz$XWz$Vz$YWz$ZWz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$aWz$z$uDz$nDz$XWz$Vz$YWz$xCz$bWz$KZz$LZz$MZz$AIz$NZz$OZz$PZz$QZz$RZz$jWz$z$uDz$nDz$XWz$Vz$YWz$kWz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$lWz$z$uDz$EWz$z$uDz$nDz$XWz$kFz$gHz$SZz$TZz$UZz$VZz$WZz$XZz$YZz$ZZz$aZz$bBz$dHz$BCz$z$uDz$EWz$z$wWz$bZz$cZz$z$AXz$dZz$eZz$z$FXz$GXz$HXz$IXz$JXz$KXz$LXz$MXz$NXz$OXz$PXz$z$bTz$cTz$QXz$qJz$RXz$SXz$TXz$UXz$BCz$z$VXz$hDz$WXz$XXz$z$YXz$ZXz$aXz$bXz$XXz$z$fZz$XXz$z$gXz$hXz$MXz$NXz$iXz$jXz$z$kXz$lXz$jXz$z$kXz$mXz$fXz$z$nXz$hXz$MXz$NXz$OXz$oXz$kEz$pXz$fXz$z$kXz$qXz$rXz$XXz$z$sXz$tXz$MXz$NXz$iXz$jXz$z$uXz$vXz$wXz$jXz$z$xXz$rJz$yXz$AYz$jXz$z$MJz$BYz$AXz$CYz$z$DYz$bZz$gZz$z$EYz$FYz$KIz$fXz$z$IYz$JYz$KYz$LYz$MYz$NYz$OYz$PYz$jXz$z$QYz$RYz$SYz$fXz$z$TYz$UYz$VYz$WYz$XYz$YYz$VYz$WYz$ZYz$xXz$aYz$bYz$cYz$dYz$XYz$eYz$fYz$z$rJz$gYz$hYz$iYz$jYz$kYz$BCz$z$lYz$z$mYz$nYz$oYz$pYz$HWz$IWz$qYz$rYz$AUz$BUz$sYz$tYz$uYz$z$mYz$nYz$vYz$wYz$HWz$IWz$qYz$xYz$yYz$UFz$AZz$z$mYz$nYz$BZz$qJz$RXz$SXz$TXz$CZz$QGz$DZz$UFz$AZz$z$EZz$FZz$GZz$HZz$z$vz$z$ZBz$hZz$iZz$SBz$z$ZBz$aBz$kBz$Jz$CDz$z$uDz$jZz$kZz$kZz$kZz$kZz$kZz$kZz$kZz$kZz$lZz$z$vz$z$Zz$DWz$z$NUz$mZz$nZz$z$mDz$oZz$pZz$qZz$sDz$tDz$z$NUz$mZz$rZz$z$mDz$sZz$wJz$xJz$HVz$tZz$uZz$vZz$wZz$mGz$LCz$z$NUz$mZz$nZz$z$NGz$z$NGz$z$UGz$xZz$yZz$Aaz$Baz$bz$z$WEz$XEz$YEz$Caz$Daz$z$WEz$ISz$JSz$z$WEz$KSz$LSz$MSz$z$ZBz$aBz$EDz$FDz$GDz$Eaz$Faz$Gaz$Haz$Iaz$Jaz$Kaz$Laz$MDz$BDz$NDz$z$ZBz$aBz$cQz$tGz$Maz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$Naz$z$ZBz$aBz$kBz$Ez$kCz$Oaz$Paz$IDz$Qaz$Raz$Saz$Taz$Uaz$Vaz$wCz$Waz$z$ZBz$aBz$kBz$Ez$kCz$Xaz$Yaz$Zaz$aaz$baz$caz$daz$eaz$faz$wCz$wCz$jWz$z$ZBz$aBz$kBz$Ez$kCz$yCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$gaz$bBz$dHz$kJz$z$haz$iaz$KEz$jaz$kaz$laz$YGz$ZGz$aGz$maz$naz$oaz$KEz$paz$qaz$raz$YGz$ZGz$aGz$maz$saz$z$WEz$taz$UEz$VEz$z$fEz$gEz$hEz$iEz$uaz$vaz$aVz$ZGz$waz$lDz$z$QSz$RSz$SSz$xaz$fSz$z$XSz$YSz$uDz$ZSz$aSz$bSz$cSz$dSz$eSz$fSz$z$ZBz$aBz$yaz$Tz$Abz$Bbz$EEz$FEz$Cbz$Dbz$Ebz$Vz$YWz$UFz$XSz$Fbz$Gbz$Hbz$BCz$z$YFz$ZFz$z$nSz$oSz$pSz$OFz$qSz$fSz$z$dFz$z$eFz$Ibz$Jbz$Kbz$z$ZBz$aBz$yaz$Oz$Lbz$Mbz$Nbz$Obz$Pbz$Qbz$Rbz$Sbz$bBz$dHz$wCz$Tbz$KGz$Gbz$Hbz$BCz$z$YFz$Ubz$z$vz$z$UGz$xZz$yZz$Aaz$Vbz$z$Zz$DWz$z$dGz$eGz$fGz$oDz$pDz$qDz$gGz$hGz$z$mDz$rz$iGz$jGz$kGz$lGz$mGz$LCz$z$iGz$jGz$kGz$Wbz$Xbz$Ybz$Zbz$abz$bbz$cbz$dbz$PHz$QHz$qFz$z$yGz$AHz$BHz$CHz$gGz$DHz$EHz$TDz$FHz$GHz$z$gGz$HHz$ebz$fbz$rz$gbz$hbz$ibz$jbz$kbz$lbz$mbz$DWz$z$AEz$z$uDz$nDz$nbz$HFz$obz$THz$THz$THz$THz$THz$THz$THz$THz$UWz$z$uDz$nDz$nbz$HFz$wCz$pbz$qbz$rbz$sbz$tbz$ubz$vbz$z$uDz$nDz$nbz$HFz$obz$THz$THz$THz$THz$THz$THz$THz$THz$wbz$QFz$RFz$z$NGz$z$uDz$nDz$xbz$BDz$ybz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$aWz$z$uDz$nDz$xbz$BDz$Acz$wCz$Bcz$Ccz$Dcz$Ecz$ebz$Fcz$Gcz$bWz$xCz$BCz$z$uDz$nDz$xbz$BDz$Hcz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$lWz$z$nBz$Icz$Jcz$Kcz$Lcz$ABz$z$WEz$Mcz$Ncz$Ocz$Pcz$Qcz$Rcz$Scz$Tcz$Ucz$Vcz$Wcz$Xcz$z$WEz$Ycz$Zcz$acz$bcz$z$WEz$ccz$dcz$ecz$z$uDz$nDz$RHz$NHz$SHz$lCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$fcz$BCz$z$uDz$nDz$gcz$wCz$hcz$icz$jcz$BUz$kcz$lcz$mcz$ncz$wCz$ocz$z$uDz$nDz$pcz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$qcz$QFz$RFz$z$uDz$EWz$z$uDz$nDz$rcz$scz$tcz$cKz$EEz$ucz$ZDz$aDz$vcz$wcz$xcz$iUz$ycz$BCz$z$uDz$EWz$z$uDz$nDz$nbz$HFz$Adz$Bdz$Cdz$Ddz$Edz$Fdz$z$uDz$nDz$RHz$NHz$SHz$Gdz$Hdz$Idz$fWz$Jdz$Kdz$Ldz$z$uDz$EWz$z$uDz$nDz$xbz$BDz$Mdz$Ndz$Odz$MQz$Pdz$Qdz$Rdz$Sdz$FTz$GTz$Tdz$z$uDz$nDz$VHz$Udz$Vdz$sQz$Wdz$Xdz$Ydz$Zdz$adz$ycz$BCz$z$uDz$EWz$z$uDz$nDz$rcz$scz$bdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$bBz$dHz$BCz$z$uDz$EWz$z$fEz$ddz$edz$fdz$gdz$hdz$Zcz$acz$idz$PSz$z$jdz$kdz$ldz$mdz$ndz$odz$pdz$CKz$qdz$rdz$sdz$tdz$udz$vdz$wdz$xdz$ydz$dcz$Aez$Bez$Cez$Dez$Eez$Vz$eDz$BCz$z$ZBz$aBz$cQz$tGz$Fez$Gez$Hez$DTz$Iez$Jez$Kez$bBz$dHz$BCz$z$Qbz$Lez$DYz$Mez$z$DYz$Mez$Nez$TMz$Oez$Pez$Qez$sHz$aUz$Rez$Sez$Tez$z$mDz$Uez$Vez$Wez$Xez$Yez$Zez$Qez$nJz$oJz$z$uDz$EWz$z$uDz$nDz$aez$DGz$ybz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$aWz$z$uDz$nDz$gcz$bez$cez$dez$eez$fez$nWz$oWz$Eaz$gez$faz$ocz$z$uDz$nDz$pcz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$qcz$QFz$RFz$z$uDz$EWz$z$YFz$ZFz$z$tQz$uQz$z$NGz$z$hez$iez$jez$kdz$kez$lez$z$dFz$z$uDz$EWz$z$uDz$nDz$xbz$mez$ySz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$nCz$z$uDz$nDz$gcz$nez$oez$pez$cez$qez$rez$sez$tez$wCz$wCz$ocz$z$uDz$nDz$uez$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$vez$z$uDz$nDz$gcz$wez$xez$yez$Afz$Bfz$wCz$wCz$wCz$wCz$wCz$ocz$z$uDz$nDz$gcz$Cfz$Ez$Dfz$Hdz$Idz$fWz$Jdz$Kdz$Efz$kFz$wCz$wCz$wCz$xCz$BCz$z$uDz$nDz$pcz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$qcz$QFz$RFz$z$uDz$EWz$z$mBz$DQz$z$vz$z$nBz$Icz$Jcz$Kcz$Lcz$z$ZBz$aBz$cQz$tGz$BJz$Ffz$Gfz$Hfz$ETz$FTz$Ifz$OIz$Jfz$KEz$Kfz$Lfz$MDz$BDz$NDz$z$uDz$EWz$z$Yz$Zz$Mfz$z$nBz$oBz$pBz$z$nBz$iCz$Nfz$z$PBz$QBz$cZz$z$IUz$JUz$Ofz$KBz$Pfz$KIz$BIz$Qfz$eCz$Rfz$z$wIz$xIz$Sfz$z$nBz$hPz$iPz$Tfz$z$wSz$Ufz$z$jVz$kVz$lVz$Vfz$z$ZBz$aBz$kBz$Jz$BJz$Wfz$Xfz$Yfz$UZz$Zfz$afz$bfz$cfz$z$dfz$efz$ffz$wHz$z$ZBz$aBz$iz$gfz$hfz$ifz$jfz$iz$gfz$hfz$kfz$lfz$mfz$yTz$AUz$BUz$nfz$ofz$pfz$qfz$z$vz$z$dfz$efz$rfz$z$sfz$tfz$ufz$SBz$z$vfz$dz$wfz$xfz$yfz$Agz$Bgz$Cgz$DBz$EBz$FBz$Dgz$z$uDz$z$GKz$HKz$yHz$AIz$Egz$Fgz$Ggz$Hgz$Igz$Jgz$Kgz$fWz$Jdz$Lgz$Mgz$OJz$oVz$Ngz$Ogz$Pgz$Qgz$Rgz$xfz$yfz$Sgz$Tgz$DBz$EBz$FBz$Ugz$wTz$z$Vgz$Wgz$Xgz$Ygz$Zgz$agz$bgz$wWz$cgz$dgz$egz$fgz$ggz$hgz$igz$BIz$jgz$kgz$lgz$mgz$ngz$ogz$EBz$FBz$GBz$pgz$MJz$qgz$OJz$rgz$z$mDz$rz$sgz$wfz$xfz$yfz$QRz$EVz$tgz$CBz$DBz$EBz$FBz$GBz$nJz$oJz$z$IUz$JUz$Ofz$yTz$AUz$BUz$ugz$UIz$vgz$WJz$wgz$xgz$MJz$qgz$OJz$rgz$z$AEz$z$ZBz$aBz$cQz$tGz$dQz$Wfz$ygz$Ahz$mIz$nIz$Bhz$OJz$Chz$Dhz$Ehz$Cbz$bBz$dHz$kJz$z$NGz$z$vz$z$sfz$tfz$LVz$z$wz$xz$yz$z$ZBz$hZz$Fhz$z$ZBz$aBz$kBz$Ez$kCz$lCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$Ghz$z$ZBz$aBz$cQz$tGz$Hhz$wCz$Ihz$KEz$Kfz$Jhz$Khz$Lhz$Mhz$Nhz$FTz$Ohz$OIz$Phz$Qhz$BGz$z$ZBz$aBz$cQz$tGz$Rhz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$mCz$Shz$BGz$z$ZBz$aBz$kJz$z$ZBz$aBz$Thz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$Uhz$z$ZBz$aBz$Vhz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$Whz$z$ZBz$aBz$Vhz$Xhz$Yhz$Zhz$ahz$bhz$MIz$chz$dhz$NHz$SHz$wCz$ehz$FTz$sWz$tWz$fhz$kJz$z$ZBz$aBz$Vhz$Xhz$Yhz$Zhz$qdz$ghz$jgz$hhz$KIz$cQz$tGz$ihz$jhz$khz$lhz$mhz$nhz$BGz$z$ZBz$aBz$Vhz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$wCz$Whz$z$ZBz$aBz$ohz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$cdz$phz$z$ZBz$aBz$kJz$z$ZBz$hZz$Fhz$z$ZBz$aBz$bBz$dHz$kJz"
+#!/data/data/com.termux/files/usr/bin/bash -e
+################################################################################
+# Kali NetHunter Installer - Custom Hacker Edition
+# Modified by Sandeep Tech
+################################################################################
+
+# colors
+red='\033[1;31m'
+yellow='\033[1;33m'
+blue='\033[1;34m'
+green='\033[1;32m'
+cyan='\033[1;36m'
+reset='\033[0m'
+
+# Clean up
+pre_cleanup() {
+        find $HOME -maxdepth 1 -name "kali*.tar.xz" -type f -exec rm -f {} \; || :
+}
+
+post_cleanup() {
+        find $HOME -maxdepth 1 -name "kali*.tar.xz" -type f -exec rm -f {} \; || :
+        [ -f "$HOME/st-kali.sh" ] && rm -f "$HOME/st-kali.sh" || :
+}
+
+# Utility function for Unknown Arch
+#####################
+#    Decide Chroot  #
+#####################
+
+setchroot() {
+	chroot=full
+}
+
+#####################
+#    SETARCH        #
+#####################
+unknownarch() {
+	printf "${red} [*] Unknown Architecture :("
+	printf "\n${reset}"
+	exit
+}
+
+# Utility function for detect system
+checksysinfo() {
+	printf "$blue [*] Checking host architecture ..."
+	case $(getprop ro.product.cpu.abi) in
+		arm64-v8a)
+			SETARCH=arm64;;
+		armeabi|armeabi-v7a)
+			SETARCH=armhf;;
+		*)
+			unknownarch;;
+	esac
+        printf "\n [*] SETARCH = ${SETARCH}"
+}
+
+# Check if required packages are present
+checkdeps() {
+	printf "\n${yellow} ╔═══════════════════════════════════════╗"
+	printf "\n${yellow} ║     🚀 INSTALLATION STARTED 🚀       ║"
+	printf "\n${yellow} ╚═══════════════════════════════════════╝${reset}"
+	printf "\n\n${blue} [*] Updating apt cache...${reset}\n"
+	apt update -y &> /dev/null
+	printf "${blue} [*] Checking for all required tools...${reset}\n"
+
+	for i in proot tar wget; do
+		if [ -e $PREFIX/bin/$i ]; then
+			echo "  + ${i} is OK"
+		else
+			# Install silently in background with spinner
+			printf "${cyan}  ⏳ Installing ${i}...${reset}\n"
+			( apt install -y "$i" >/dev/null 2>&1 ) &
+			INST_PID=$!
+			local spin='⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏'
+			local si=0 se=0
+			while kill -0 "$INST_PID" 2>/dev/null; do
+				si=$(( (si+1) % 10 ))
+				local sf
+				sf=$(echo "$spin" | cut -c$((si+1)))
+				printf "\033[2K\r${cyan}  %s  Installing %-8s [%ds elapsed]${reset}" \
+					"$sf" "${i}..." "$se"
+				sleep 1
+				se=$((se+1))
+			done
+			wait "$INST_PID" || {
+				printf "\033[2K\r"
+				printf "\n${red} [!] ERROR: check your internet connection or apt"
+				printf "\n${red} [!] Exiting...${reset}\n"
+				exit
+			}
+			printf "\033[2K\r${green}  ✓  %-8s installed! [%ds]${reset}\n" "${i}" "$se"
+		fi
+	done
+
+	# Install axel if available (optional, wget is fallback)
+	if [ ! -e $PREFIX/bin/axel ]; then
+		apt install -y axel &>/dev/null || true
+	fi
+
+	# Show cfonts LINUX banner
+	CFONTS_BIN="$PREFIX/bin/cfonts"
+	if [ -f "$CFONTS_BIN" ]; then
+		"$CFONTS_BIN" "LINUX" -f block -c yellow,blue -a center
+	elif command -v cfonts &>/dev/null; then
+		cfonts "LINUX" -f block -c yellow,blue -a center
+	else
+		echo -e "${yellow}  ============================="
+		echo -e "      K A L I   L I N U X"
+		echo -e "  =============================${reset}"
+	fi
+
+	printf "${green} [*] All dependencies checked!${reset}\n"
+
+	apt upgrade -y &>/dev/null || true
+}
+
+# URLs of all possible architectures
+seturl() {
+	URL="https://kali.download/nethunter-images/current/rootfs/kali-nethunter-rootfs-${chroot}-${SETARCH}.tar.xz"
+	# Fallback mirror
+	MIRROR_URL="https://github.com/termux/proot-distro/releases/download/v3.10.0/kali-${SETARCH}-pd-v3.10.0.tar.xz"
+}
+
+# Utility function to get tar file
+gettarfile() {
+    seturl
+    printf "\n${blue} [*] Fetching tar file"
+    printf "\n from ${URL}"
+    cd $HOME
+    rootfs="kali-nethunter-rootfs-${chroot}-${SETARCH}.tar.xz"
+    printf "\n [*] Placing ${rootfs}"
+    printf "\n into ${DESTINATION}"
+    printf "${reset}\n"
+    if [ ! -f "$rootfs" ]; then
+        if [ -e "$PREFIX/bin/axel" ]; then
+            axel ${EXTRAARGS} --alternate "$URL" -o "$rootfs" || \
+                wget -q --show-progress "$URL" -O "$rootfs"
+        else
+            wget -q --show-progress "$URL" -O "$rootfs"
+        fi
+    else
+        printf "${red} [!] continuing with already downloaded image,"
+        printf "\n if this image is corrupted or half downloaded then "
+        printf "\n delete it manually to download a fresh image."
+        printf "${reset}\n"
+    fi
+}
+
+# Official SHA256 hashes from Kali's website
+get_sha256() {
+    local arch=$1
+    local chroot=$2
+    case "${arch}-${chroot}" in
+        arm64-full) echo "b8098fc90ed74a553592f7019a1d88dfe3c65b16c60af487b0658860554dc5aa" ;;
+        armhf-full) echo "b15a4aba9fb1c6f7481d7b3d08cb77c9e9c993eb542475961d008bdc64767d64" ;;
+        amd64-full) echo "a6673ef39dfc858a5ad4e4b18f974f3eda7732b12cba07609d377b5dbd7d2436" ;;
+        i386-full) echo "a9ee9c504dd9df21da4bfabd9b97b4d6d8816ffabc4b1d10b2c786d52ca06e93" ;;
+        arm64-minimal) echo "08f121b553d03476b82b6322365eb4f47f73f4edf8800dafa7462b061eb2d0fc" ;;
+        armhf-minimal) echo "1ff5a8313cca728cf3c967bd2c8b59c629e8d4b9f4b35bf62b9df9f0097c8c1d" ;;
+        amd64-minimal) echo "63c7ce7c65430b3e95a0e7af530de9e2513dc90df1ced1336e192953c97b7dd6" ;;
+        i386-minimal) echo "1aa7d3ef4f8b6e079d5a2ec6a025deec601eab8c7236b336bb9ba23a67845994" ;;
+        arm64-nano) echo "484af462afa5064512f420d8565a90c7923ac6288f35d37d37dff6aa44936a23" ;;
+        armhf-nano) echo "d0761b79c0b303401a1ac405db1b2b223b0e3e8d60ec647a6b391fd70c595fdf" ;;
+        amd64-nano) echo "61c9d00951ab8a45e8a5eaeaff32c8e80e903511b26baed68769299693fe68b5" ;;
+        i386-nano) echo "12c3dfc5e6e693662dd3a83abea847ee4140f672c45f18f1c2416d9b3c2a20c6" ;;
+        *) echo "" ;;
+    esac
+}
+
+# Utility function to check integrity
+checkintegrity() {
+	printf "\n${blue} [*] Checking integrity of file..."
+	rootfs="kali-nethunter-rootfs-${chroot}-${SETARCH}.tar.xz"
+	if [ ! -f "$rootfs" ]; then
+		printf "${red} [!] Downloaded file not found. Please re-run the script."
+		printf "${reset}\n"
+		exit 1
+	fi
+	if [ ! -s "$rootfs" ]; then
+		printf "${red} [!] Downloaded file is empty. Please re-run the script."
+		printf "${reset}\n"
+		exit 1
+	fi
+	# Get expected SHA256 hash
+	expected_hash=$(get_sha256 "$SETARCH" "$chroot")
+	if [ -z "$expected_hash" ]; then
+		printf "${yellow} [!] No official hash found for this architecture, skipping verification"
+		printf "${reset}\n"
+		return 0
+	fi
+	# Calculate actual hash
+	printf "\n [*] Verifying SHA256 hash..."
+	actual_hash=$(sha256sum "$rootfs" | awk '{print $1}')
+	if [ "$actual_hash" = "$expected_hash" ]; then
+		printf "${green} [*] Integrity check PASSED!"
+		printf "${reset}\n"
+	else
+		printf "${red} Sorry :( your downloaded file was corrupted "
+		printf "or half downloaded, but don't worry, just rerun my script"
+		printf "${reset}\n"
+		printf "${red} Expected: $expected_hash"
+		printf "${red} Got:      $actual_hash"
+		printf "${reset}\n"
+		rm -f "$rootfs"
+		exit 1
+	fi
+}
+
+# ── Spinner animation for long operations ──────────────────────
+# Uses ANSI erase-line (\033[2K) + carriage-return to guarantee the
+# spinner stays on ONE line in every Termux terminal emulator.
+show_spinner() {
+    local msg="$1"
+    local pid=$2
+    local spin='⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏'
+    local i=0
+    local elapsed=0
+    while kill -0 "$pid" 2>/dev/null; do
+        i=$(( (i+1) % 10 ))
+        local frame
+        frame=$(echo "$spin" | cut -c$((i+1)))
+        # \033[2K = erase entire current line; \r = go to column 0
+        printf "\033[2K\r${cyan}  %s  %s  [%ds]${reset}" \
+            "$frame" "$msg" "$elapsed"
+        sleep 1
+        elapsed=$((elapsed+1))
+    done
+    printf "\033[2K\r${green}  ✓  %s  [done in %ds]${reset}\n" "$msg" "$elapsed"
+}
+
+# Utility function to extract tar file
+extract() {
+	printf "\n${yellow}  ╔══════════════════════════════════════════╗"
+	printf "\n${yellow}  ║   📦 Extracting Kali Linux Rootfs...    ║"
+	printf "\n${yellow}  ║   ⏱  This will take 10-15 minutes.      ║"
+	printf "\n${yellow}  ║   ☕ Grab a coffee and be patient!       ║"
+	printf "\n${yellow}  ╚══════════════════════════════════════════╝${reset}\n"
+
+	# Create destination directory
+	mkdir -p "$DESTINATION"
+
+	# Extract in background with spinner
+	(
+	    proot --link2symlink tar -xJf "$rootfs" --strip-components=1 -C "$DESTINATION" 2>/dev/null || \
+	    proot --link2symlink tar -xJf "$rootfs" -C "$DESTINATION" 2>/dev/null || \
+	    tar -xJf "$rootfs" -C "$DESTINATION" 2>/dev/null || :
+	) &
+	EXTRACT_PID=$!
+	show_spinner "Extracting rootfs (please wait...)" "$EXTRACT_PID"
+	wait "$EXTRACT_PID"
+
+	# Verify extraction was successful
+	if [ -d "$DESTINATION/etc" ] || [ -d "$DESTINATION/usr" ]; then
+		printf "${green} [*] Extraction complete!${reset}\n"
+	else
+		# Try extracting to home first then move
+		printf "${yellow} [*] Retrying extraction...${reset}\n"
+		proot --link2symlink tar -xJf "$rootfs" -C "$HOME" 2>/dev/null || \
+		    tar -xJf "$rootfs" -C "$HOME" 2>/dev/null || :
+
+		# Find the extracted directory
+		EXTRACTED_DIR=""
+		for dir in "$HOME"/kali-nethunter-rootfs-* "$HOME"/kali-* "$HOME"/rootfs; do
+			if [ -d "$dir" ] && [ "$dir" != "$DESTINATION" ]; then
+				EXTRACTED_DIR="$dir"
+				break
+			fi
+		done
+
+		if [ -n "$EXTRACTED_DIR" ]; then
+			mv "$EXTRACTED_DIR"/* "$DESTINATION/" 2>/dev/null || \
+			    mv "$EXTRACTED_DIR" "$DESTINATION" 2>/dev/null || :
+			rm -rf "$EXTRACTED_DIR" 2>/dev/null || :
+			printf "${green} [*] Extraction complete!${reset}\n"
+		else
+			printf "${red} [!] Extraction failed. Please check the archive.${reset}\n"
+			exit 1
+		fi
+	fi
+}
+
+# Utility function for login file
+createloginfile() {
+	# Create kali-linux command (user mode)
+	bin=$PREFIX/bin/kali-linux
+        printf "\n${blue} [*] Creating ${bin}"
+        printf "${reset}\n"
+	cat > $bin << EOM
+#!/data/data/com.termux/files/usr/bin/bash
+unset LD_PRELOAD
+
+# colors
+red='\033[1;31m'
+yellow='\033[1;33m'
+green='\033[1;32m'
+cyan='\033[1;36m'
+reset='\033[0m'
+
+# Show banner
+clear
+echo ""
+CFONTS_BIN="PREFIX_PLACEHOLDER/bin/cfonts"
+if [ -f "\$CFONTS_BIN" ]; then
+    "\$CFONTS_BIN" "LINUX" -f block -c yellow,blue -a center
+elif command -v cfonts &>/dev/null; then
+    cfonts "LINUX" -f block -c yellow,blue -a center
+else
+    echo -e "\033[1;33m  =============================="
+    echo -e "      K A L I   L I N U X"
+    echo -e "  ==============================\033[0m"
+fi
+echo ""
+echo -e "\${reset}  ╔══════════════════════════════════════════╗"
+echo -e "\${reset}  ║   ⚡ Created by Sandeep Tech ⚡          ║"
+echo -e "\${reset}  ╚══════════════════════════════════════════╝"
+echo ""
+echo -e "\${green} [*] Starting Kali Linux (User Mode)...\${reset}"
+echo ""
+
+user=kali
+home=/home/\${user}
+
+export PROOT_TMPDIR="PREFIX_PLACEHOLDER/tmp"
+mkdir -p "PREFIX_PLACEHOLDER/tmp"
+
+exec proot \\
+    --link2symlink \\
+    -i 1000:1000 \\
+    -r DEST_PLACEHOLDER \\
+    -b /dev \\
+    -b /proc \\
+    -b DEST_PLACEHOLDER/dev:/dev/shm \\
+    -b /sdcard \\
+    -b HOME_PLACEHOLDER \\
+    -w \${home} \\
+    /usr/bin/env -i \\
+    HOME=\${home} \\
+    USER=\${user} \\
+    LOGNAME=\${user} \\
+    TERM="\${TERM:-xterm-256color}" \\
+    LANG=C.UTF-8 \\
+    PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \\
+    /bin/bash --login "\${@}"
+EOM
+
+	# Replace placeholders with actual values
+	sed -i "s|DEST_PLACEHOLDER|${DESTINATION}|g" "$bin"
+	sed -i "s|HOME_PLACEHOLDER|${HOME}|g" "$bin"
+	sed -i "s|PREFIX_PLACEHOLDER|${PREFIX}|g" "$bin"
+	chmod 700 $bin
+
+	# Create kali-linux-root command (root mode)
+	bin=$PREFIX/bin/kali-linux-root
+        printf "\n${blue} [*] Creating ${bin}"
+        printf "${reset}\n"
+	cat > $bin << EOM
+#!/data/data/com.termux/files/usr/bin/bash
+unset LD_PRELOAD
+
+# colors
+red='\033[1;31m'
+yellow='\033[1;33m'
+green='\033[1;32m'
+cyan='\033[1;36m'
+reset='\033[0m'
+
+# Show banner
+clear
+echo ""
+CFONTS_BIN="PREFIX_PLACEHOLDER/bin/cfonts"
+if [ -f "\$CFONTS_BIN" ]; then
+    "\$CFONTS_BIN" "LINUX" -f block -c yellow,blue -a center
+elif command -v cfonts &>/dev/null; then
+    cfonts "LINUX" -f block -c yellow,blue -a center
+else
+    echo -e "\033[1;33m  =============================="
+    echo -e "      K A L I   L I N U X"
+    echo -e "  ==============================\033[0m"
+fi
+echo ""
+echo -e "\${reset}  ╔══════════════════════════════════════════╗"
+echo -e "\${reset}  ║  ⚡ Website: https://sandeeptech.com ⚡  ║"
+echo -e "\${reset}  ╚══════════════════════════════════════════╝"
+echo ""
+echo -e "\${red} [*] Starting Kali Linux (ROOT Mode)...\${reset}"
+echo ""
+
+user=root
+home=/root
+
+export PROOT_TMPDIR="PREFIX_PLACEHOLDER/tmp"
+mkdir -p "PREFIX_PLACEHOLDER/tmp"
+
+exec proot \\
+    --link2symlink \\
+    -0 \\
+    -r DEST_PLACEHOLDER \\
+    -b /dev \\
+    -b /proc \\
+    -b DEST_PLACEHOLDER/dev:/dev/shm \\
+    -b /sdcard \\
+    -b HOME_PLACEHOLDER \\
+    -w \${home} \\
+    /usr/bin/env -i \\
+    HOME=\${home} \\
+    USER=root \\
+    LOGNAME=root \\
+    TERM="\${TERM:-xterm-256color}" \\
+    LANG=C.UTF-8 \\
+    PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \\
+    /bin/bash --login "\${@}"
+EOM
+
+	# Replace placeholders with actual values
+	sed -i "s|DEST_PLACEHOLDER|${DESTINATION}|g" "$bin"
+	sed -i "s|HOME_PLACEHOLDER|${HOME}|g" "$bin"
+	sed -i "s|PREFIX_PLACEHOLDER|${PREFIX}|g" "$bin"
+	chmod 700 $bin
+}
+
+printline() {
+	printf "\n${blue}"
+	echo " #---------------------------------#"
+}
+
+# Start
+clear
+EXTRAARGS=""
+if [[ ! -z $1 ]]; then
+    EXTRAARGS=$1
+    if [[ $EXTRAARGS != "--insecure" ]]; then
+		EXTRAARGS=""
+    fi
+fi
+
+# ── Install cfonts silently with spinner animation ────────────
+install_banner_deps() {
+    local spin='|/-\\'
+    local i=0
+    local elapsed=0
+
+    printf "${blue} [*] Installing banner dependencies...${reset}\n"
+    printf "${yellow} ╔══════════════════════════════════════════╗"
+    printf "\n${yellow} ║  ⏳ Setting up required packages...      ║"
+    printf "\n${yellow} ║  📡 This may take 1-2 minutes...          ║"
+    printf "\n${yellow} ╚══════════════════════════════════════════╝${reset}\n"
+
+    # Run install in background
+    ( pkg install nodejs -y &>/dev/null 2>&1; npm install -g cfonts &>/dev/null 2>&1 ) &
+    local BG_PID=$!
+
+    # Animate while installing
+    while kill -0 "$BG_PID" 2>/dev/null; do
+        i=$(( (i+1) % 4 ))
+        frame=$(echo "$spin" | cut -c$((i+1)))
+        printf "\r${cyan}  %s  Installing... [%ds]${reset}  " "$frame" "$elapsed"
+        sleep 1
+        elapsed=$((elapsed+1))
+    done
+    wait "$BG_PID"
+    printf "\r${green}  ✓  Dependencies ready! [%ds]${reset}       \n" "$elapsed"
+    sleep 0
+}
+
+install_banner_deps
+
+# ── Clear screen then show banner ────────────────────────────
+clear
+CFONTS_BIN="$PREFIX/bin/cfonts"
+if [ -f "$CFONTS_BIN" ]; then
+    "$CFONTS_BIN" "SANDEEP" -f slick -c white,blue -a center
+elif command -v cfonts &>/dev/null; then
+    cfonts "SANDEEP" -f slick -c white,blue -a center
+else
+    echo -e "${cyan}  ====================================="
+    echo -e "${cyan}       S A N D E E P   T E C H"
+    echo -e "${cyan}  =====================================${reset}"
+fi
+echo -e "${reset}  ╔══════════════════════════════════════════╗"
+echo -e "${reset}  ║    ⚡  Created By - SANDEEP TECH  ⚡    ║"
+echo -e "${reset}  ╚══════════════════════════════════════════╝"
+
+# ─────────────────────────────────────────────────
+#  ACTIVATION KEY GATE
+# ─────────────────────────────────────────────────
+check_activation_key() {
+    local VALID_KEY="de4f0114611aab15fef8881083f2de10"
+    local MAX_ATTEMPTS=3
+    local attempt=1
+
+    echo -e "${yellow}  ╔══════════════════════════════════════════╗"
+    echo -e "  ║      🔐  ACTIVATION KEY REQUIRED        ║"
+    echo -e "  ╚══════════════════════════════════════════╝${reset}"
+    echo ""
+    echo -e "${blue}  This installer requires an activation key."
+    echo ""
+    echo -e "${cyan}  📖 Get your FREE key:"
+    echo -e "${yellow}     https://sandeeptech.com"
+    echo ""
+    echo -e "${reset}  ➤ Visit the site & read the Kali Linux"
+    echo -e "    installation blog to find your key."
+    echo ""
+    echo -e "${blue}  ──────────────────────────────────────────${reset}"
+    echo ""
+
+    while [ $attempt -le $MAX_ATTEMPTS ]; do
+        [ $attempt -gt 1 ] && echo -e "${red}  ✗ Incorrect key! Attempt ${attempt}/${MAX_ATTEMPTS}${reset}\n"
+
+        printf "${yellow}  🔑 Enter activation key: ${reset}"
+        read -r USER_KEY
+        USER_KEY=$(echo "$USER_KEY" | tr -d '[:space:]')
+
+        if [ "$USER_KEY" = "$VALID_KEY" ]; then
+            echo ""
+            echo -e "${green}  ╔══════════════════════════════════════════╗"
+            echo -e "  ║  ✅  Key Verified! Starting Install...   ║"
+            echo -e "  ╚══════════════════════════════════════════╝${reset}"
+            echo ""
+            sleep 1
+            return 0
+        fi
+        attempt=$((attempt + 1))
+    done
+
+    echo ""
+    echo -e "${red}  ╔══════════════════════════════════════════╗"
+    echo -e "  ║  ✗  Invalid Key. Access Denied.         ║"
+    echo -e "  ╠══════════════════════════════════════════╣"
+    echo -e "  ║  Get your key at:                       ║"
+    echo -e "  ║  ${yellow}https://sandeeptech.com${red}               ║"
+    echo -e "  ╚══════════════════════════════════════════╝${reset}"
+    echo ""
+    exit 1
+}
+
+check_activation_key
+
+printf "${yellow} [*] Initializing Kali NetHunter Installation...${reset}\n"
+echo ""
+
+
+pre_cleanup
+checksysinfo
+checkdeps
+setchroot
+DESTINATION=$HOME/chroot/kali-$SETARCH
+gettarfile
+checkintegrity
+extract
+createloginfile
+
+printf "\n${blue} [*] Configuring Kali For You ..."
+
+# Utility function for resolv.conf
+resolvconf() {
+	#create resolv.conf file
+	printf "nameserver 8.8.8.8\nnameserver 8.8.4.4\n" > $DESTINATION/etc/resolv.conf
+}
+resolvconf
+
+##############
+# st-kali.sh #
+##############
+
+finalwork() {
+	[ -e $HOME/st-kali.sh ] && rm $HOME/st-kali.sh
+	echo
+	# Download st-kali.sh from GitHub
+	wget -q "https://raw.githubusercontent.com/sandeeptechcloud/kali-linux/refs/heads/main/st-kali.sh" -O $HOME/st-kali.sh || \
+		curl -sL "https://raw.githubusercontent.com/sandeeptechcloud/kali-linux/refs/heads/main/st-kali.sh" -o $HOME/st-kali.sh
+	if [ -f "$HOME/st-kali.sh" ] && [ -s "$HOME/st-kali.sh" ]; then
+		DESTINATION=$DESTINATION SETARCH=$SETARCH bash $HOME/st-kali.sh
+	else
+		printf "${yellow} [!] Could not download st-kali.sh, skipping...${reset}\n"
+	fi
+}
+finalwork
+
+post_cleanup
+
+printline
+printf "\n${yellow} ╔═══════════════════════════════════════════════════════╗\n"
+printf "${yellow} ║     ✅ Installation Complete! Enjoy Kali Nethunter     ║\n"
+printf "${yellow} ╚═══════════════════════════════════════════════════════╝\n"
+printf "\n"
+printf "  ┌─────────────────────────────────────────────┐\n"
+printf "  │                                             │\n"
+printf "  │   🎮 Type  ${green}kali-linux${yellow}       → Kali User Mode  │\n"
+printf "  │   🎮 Type  ${red}kali-linux-root${yellow}   → Kali Root Mode  │\n"
+printf "  │                                             │\n"
+printf "  └─────────────────────────────────────────────┘\n"
+printf "\n"
+printline
+printf "${reset}\n"
